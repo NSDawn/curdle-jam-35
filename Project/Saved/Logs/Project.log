@@ -7340,3 +7340,6 @@ Please see Output Log for details.
 [2025.02.09-22.38.49:520][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2025.02.09-22.39.39:871][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2025.02.09-22.39.45:225][530]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.02.09-22.40.08:090][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Leotest/Leo_test" FILE="../../../../game/curdle-jam-35/Project/Content/Leotest/Leo_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.09-22.40.08:115][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.02.09-22.40.08:223][788]LogSavePackage: Moving '../../../../game/curdle-jam-35/Project/Saved/Leo_testCC6D63A74768E33265595ABA313D0576.tmp' to '../../../../game/curdle-jam-35/Project/Content/Leotest/Leo_test.umap'
