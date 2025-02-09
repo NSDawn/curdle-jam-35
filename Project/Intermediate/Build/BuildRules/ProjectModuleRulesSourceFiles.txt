@@ -1,0 +1,2 @@
+C:\Users\capti\Desktop\Unreal Games\CurdleJam35-Repo\Project\Intermediate\Source\Project.Build.cs
+C:\Users\capti\Desktop\Unreal Games\CurdleJam35-Repo\Project\Intermediate\Source\Project.Target.cs
