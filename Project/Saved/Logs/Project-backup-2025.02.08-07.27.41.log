@@ -1,0 +1,1687 @@
+﻿Log file open, 02/07/25 19:54:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.393175
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 7600X 6-Core Processor             , GPU: NVIDIA GeForce RTX 3070
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Config/Windows/Engine.ini]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2025.02.08-03.54.08:126][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Config/Windows/Engine.ini]
+[2025.02.08-03.54.08:127][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Config/Windows/Engine.ini]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Config/Windows/Engine.ini]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2025.02.08-03.54.08:127][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Config/Windows/Engine.ini]
+[2025.02.08-03.54.08:127][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Config/Windows/Engine.ini]
+[2025.02.08-03.54.08:130][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2025.02.08-03.54.08:130][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2025.02.08-03.54.08:131][  0]LogInit: Selected Device Profile: [Windows]
+[2025.02.08-03.54.08:131][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2025.02.08-03.54.08:139][  0]LogHAL: Display: Platform has ~ 16 GB [16264413184 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2025.02.08-03.54.08:139][  0]LogInit: Going up to parent DeviceProfile []
+[2025.02.08-03.54.08:139][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.08-03.54.08:139][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2025.02.08-03.54.08:139][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2025.02.08-03.54.08:139][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.08-03.54.08:139][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2025.02.08-03.54.08:139][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.08-03.54.08:139][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2025.02.08-03.54.08:139][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2025.02.08-03.54.08:139][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.02.08-03.54.08:139][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2025.02.08-03.54.08:139][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.02.08-03.54.08:139][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.02.08-03.54.08:139][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.02.08-03.54.08:139][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.02.08-03.54.08:139][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.02.08-03.54.08:139][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2025.02.08-03.54.08:139][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2025.02.08-03.54.08:139][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2025.02.08-03.54.08:139][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2025.02.08-03.54.08:140][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2025.02.08-03.54.08:145][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2025.02.08-03.54.08:145][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2025.02.08-03.54.08:145][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Config/Windows/Engine.ini]
+[2025.02.08-03.54.08:145][  0]LogInit: Computer: CAPTNTOTOPC
+[2025.02.08-03.54.08:145][  0]LogInit: User: capti
+[2025.02.08-03.54.08:145][  0]LogInit: CPU Page size=4096, Cores=6
+[2025.02.08-03.54.08:145][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.02.08-03.54.08:146][  0]LogMemory: Memory total: Physical=15.1GB (16GB approx)
+[2025.02.08-03.54.08:146][  0]LogMemory: Platform Memory Stats for Windows
+[2025.02.08-03.54.08:146][  0]LogMemory: Process Physical Memory: 103.38 MB used, 103.38 MB peak
+[2025.02.08-03.54.08:146][  0]LogMemory: Process Virtual Memory: 113.40 MB used, 113.40 MB peak
+[2025.02.08-03.54.08:146][  0]LogMemory: Physical Memory: 4079.72 MB used,  11431.23 MB free, 15510.95 MB total
+[2025.02.08-03.54.08:146][  0]LogMemory: Virtual Memory: 4708.98 MB used,  134213016.00 MB free, 134217728.00 MB total
+[2025.02.08-03.54.08:149][  0]LogWindows: WindowsPlatformFeatures enabled
+[2025.02.08-03.54.08:344][  0]LogInit: Using OS detected language (en-US).
+[2025.02.08-03.54.08:345][  0]LogInit: Using OS detected locale (en-US).
+[2025.02.08-03.54.08:347][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2025.02.08-03.54.08:533][  0]LogInit: Setting process to per monitor DPI aware
+[2025.02.08-03.54.08:587][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2025.02.08-03.54.08:587][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2025.02.08-03.54.10:070][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2025.02.08-03.54.10:070][  0]LogD3D11RHI: D3D11 adapters:
+[2025.02.08-03.54.10:158][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070' (Feature Level 11_0)
+[2025.02.08-03.54.10:158][  0]LogD3D11RHI:       8018/0/7755 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2025.02.08-03.54.10:159][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2025.02.08-03.54.10:159][  0]LogD3D11RHI:       0/0/7755 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2025.02.08-03.54.10:159][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2025.02.08-03.54.10:163][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2025.02.08-03.54.10:163][  0]LogD3D11RHI:     GPU DeviceId: 0x2484 (for the marketing name, search the web for "GPU Device Id")
+[2025.02.08-03.54.10:163][  0]LogWindows: EnumDisplayDevices:
+[2025.02.08-03.54.10:163][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070' (P:1 D:1)
+[2025.02.08-03.54.10:163][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2025.02.08-03.54.10:163][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2025.02.08-03.54.10:163][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2025.02.08-03.54.10:163][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2025.02.08-03.54.10:163][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070
+[2025.02.08-03.54.10:163][  0]LogD3D11RHI:   Driver Version: 560.94 (internal:32.0.15.6094, unified:560.94)
+[2025.02.08-03.54.10:163][  0]LogD3D11RHI:      Driver Date: 8-14-2024
+[2025.02.08-03.54.10:163][  0]LogRHI: Texture pool is 5612 MB (70% of 8018 MB)
+[2025.02.08-03.54.10:207][  0]LogD3D11RHI: Async texture creation enabled
+[2025.02.08-03.54.10:221][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2025.02.08-03.54.10:442][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2025.02.08-03.54.10:447][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2025.02.08-03.54.10:452][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2025.02.08-03.54.10:456][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2025.02.08-03.54.10:471][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2025.02.08-03.54.10:476][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2025.02.08-03.54.10:481][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2025.02.08-03.54.10:486][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2025.02.08-03.54.10:489][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2025.02.08-03.54.10:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2025.02.08-03.54.10:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2025.02.08-03.54.10:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2025.02.08-03.54.10:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2025.02.08-03.54.10:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2025.02.08-03.54.10:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2025.02.08-03.54.10:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2025.02.08-03.54.10:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2025.02.08-03.54.10:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2025.02.08-03.54.10:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2025.02.08-03.54.10:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2025.02.08-03.54.10:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2025.02.08-03.54.10:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2025.02.08-03.54.10:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2025.02.08-03.54.10:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2025.02.08-03.54.10:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2025.02.08-03.54.10:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2025.02.08-03.54.10:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2025.02.08-03.54.10:520][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2025.02.08-03.54.10:547][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2025.02.08-03.54.10:547][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2025.02.08-03.54.10:553][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2025.02.08-03.54.10:554][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2025.02.08-03.54.10:558][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2025.02.08-03.54.10:562][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2025.02.08-03.54.10:567][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2025.02.08-03.54.10:581][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2025.02.08-03.54.10:596][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2025.02.08-03.54.10:596][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2025.02.08-03.54.10:596][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2025.02.08-03.54.10:644][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2025.02.08-03.54.10:730][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Intermediate/Shaders/WorkingDirectory/4468/).
+[2025.02.08-03.54.10:730][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/capti/AppData/Local/Temp/UnrealShaderWorkingDir/574D7D204C2A47E51AB4D2A29287FFC9/'.
+[2025.02.08-03.54.10:732][  0]LogXGEController: Cleaning working directory: C:/Users/capti/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.02.08-03.54.10:732][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2025.02.08-03.54.10:732][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2025.02.08-03.54.10:732][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2025.02.08-03.54.12:499][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2025.02.08-03.54.12:506][  0]LogDerivedDataCache: Loaded boot cache 0.01s 1MB C:/Users/capti/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2025.02.08-03.54.12:506][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/capti/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2025.02.08-03.54.12:506][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2025.02.08-03.54.12:506][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2025.02.08-03.54.12:506][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.02.08-03.54.12:506][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2025.02.08-03.54.12:523][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2025.02.08-03.54.12:523][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.02.08-03.54.12:523][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2025.02.08-03.54.12:525][  0]LogDerivedDataCache: Using Local data cache path C:/Users/capti/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2025.02.08-03.54.12:525][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2025.02.08-03.54.12:525][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2025.02.08-03.54.12:544][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2025.02.08-03.54.12:549][  0]LogSlate: Using FreeType 2.6.0
+[2025.02.08-03.54.12:563][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2025.02.08-03.54.12:739][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2025.02.08-03.54.12:972][  0]LogInit: Selected Device Profile: [Windows]
+[2025.02.08-03.54.13:165][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2025.02.08-03.54.13:165][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2025.02.08-03.54.13:165][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2025.02.08-03.54.13:165][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2025.02.08-03.54.13:165][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2025.02.08-03.54.13:203][  0]LogNetVersion: Project 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 453484507)
+[2025.02.08-03.54.13:910][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.025354 seconds
+[2025.02.08-03.54.13:913][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2025.02.08-03.54.13:913][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2025.02.08-03.54.13:913][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.02.08-03.54.15:252][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2025.02.08-03.54.15:255][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2025.02.08-03.54.15:322][  0]SourceControl: Source control is disabled
+[2025.02.08-03.54.15:322][  0]SourceControl: Source control is disabled
+[2025.02.08-03.54.15:329][  0]SourceControl: Source control is disabled
+[2025.02.08-03.54.15:331][  0]SourceControl: Source control is disabled
+[2025.02.08-03.54.15:464][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.02.08-03.54.15:579][  0]LogOcInput: OculusInput pre-init called
+[2025.02.08-03.54.15:586][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2025.02.08-03.54.15:586][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2025.02.08-03.54.15:664][  0]LogEngine: Initializing Engine...
+[2025.02.08-03.54.15:665][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2025.02.08-03.54.15:667][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2025.02.08-03.54.15:999][  0]LogInit: Initializing FReadOnlyCVARCache
+[2025.02.08-03.54.16:022][  0]LogAIModule: Creating AISystem for world Untitled
+[2025.02.08-03.54.16:038][  0]LogInit: XAudio2 using 'Speakers (Razer Barracuda X 2.4)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2025.02.08-03.54.16:058][  0]LogInit: FAudioDevice initialized.
+[2025.02.08-03.54.16:059][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2025.02.08-03.54.16:111][  0]LogDerivedDataCache: Saved boot cache 0.05s 73MB C:/Users/capti/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2025.02.08-03.54.16:112][  0]LogInit: Texture streaming: Enabled
+[2025.02.08-03.54.16:126][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2025.02.08-03.54.16:126][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2025.02.08-03.54.16:127][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2025.02.08-03.54.16:157][  0]LogInit: Transaction tracking system initialized
+[2025.02.08-03.54.16:196][  0]BlueprintLog: New page: Editor Load
+[2025.02.08-03.54.16:290][  0]LocalizationService: Localization service is disabled
+[2025.02.08-03.54.16:629][  0]LogFileCache: Scanning file cache for directory 'C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/' took 0.00s
+[2025.02.08-03.54.16:629][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2025.02.08-03.54.16:629][  0]LogCook: Display: Mobile HDR setting 1
+[2025.02.08-03.54.16:882][  0]SourceControl: Source control is disabled
+[2025.02.08-03.54.16:883][  0]Cmd: MAP LOAD FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.02.08-03.54.16:884][  0]LightingResults: New page: Lighting Build
+[2025.02.08-03.54.16:887][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.02.08-03.54.16:889][  0]MapCheck: New page: Map Check
+[2025.02.08-03.54.16:889][  0]LightingResults: New page: Lighting Build
+[2025.02.08-03.54.16:906][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.02.08-03.54.17:012][  0]LogAIModule: Creating AISystem for world NewMap
+[2025.02.08-03.54.17:028][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.02.08-03.54.17:045][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.02.08-03.54.17:046][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.02.08-03.54.17:046][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.234ms to complete.
+[2025.02.08-03.54.17:046][  0]LogFileHelpers: Loading map 'NewMap' took 0.163
+[2025.02.08-03.54.17:152][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-03.54.17:156][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-03.54.17:159][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-03.54.17:162][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-03.54.17:181][  0]LogCollectionManager: Loaded 0 collections in 0.000956 seconds
+[2025.02.08-03.54.17:193][  0]LogFileCache: Scanning file cache for directory 'C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Collections/' took 0.00s
+[2025.02.08-03.54.17:193][  0]LogFileCache: Scanning file cache for directory 'C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/Developers/capti/Collections/' took 0.00s
+[2025.02.08-03.54.17:193][  0]LogFileCache: Scanning file cache for directory 'C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/Collections/' took 0.00s
+[2025.02.08-03.54.17:193][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2025.02.08-03.54.17:200][  0]LogContentBrowser: Native class hierarchy populated in 0.0057 seconds. Added 2863 classes and 680 folders.
+[2025.02.08-03.54.17:206][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2025.02.08-03.54.17:415][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2025.02.08-03.54.17:423][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0001 seconds. Added 1 classes and 2 folders.
+[2025.02.08-03.54.17:466][  0]LogSlate: Took 0.007022 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.02.08-03.54.17:472][  0]LogSlate: Took 0.004325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.02.08-03.54.17:477][  0]LogSlate: Took 0.003771 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.02.08-03.54.17:519][  0]LogRenderer: Reallocating scene render targets to support 1504x920 Format 10 NumSamples 1 (Frame:1).
+[2025.02.08-03.54.17:683][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2025.02.08-03.54.17:683][  0]LogLoad: (Engine Initialization) Total time: 13.24 seconds
+[2025.02.08-03.54.17:683][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2025.02.08-03.54.17:738][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2025.02.08-03.54.18:026][  6]LogAssetRegistry: Asset discovery search completed in 5.2863 seconds
+[2025.02.08-03.54.18:027][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2025.02.08-03.54.18:027][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000023 seconds (updated 0 objects)
+[2025.02.08-03.54.39:802][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-03.54.40:352][642]LogActorFactory: Actor Factory created Cube
+[2025.02.08-03.54.42:371][789]LogActorFactory: Actor Factory created Cube
+[2025.02.08-03.55.17:692][409]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={1AEA64CD-4392-1C1F-A7D3-349546C3DCCA}
+[2025.02.08-03.55.22:238][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-03.55.32:096][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2025.02.08-03.55.34:483][659]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2025.02.08-03.55.34:500][659]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.02.08-03.55.46:554][544]Cmd: DELETE
+[2025.02.08-03.55.46:554][544]Cmd: ACTOR DELETE
+[2025.02.08-03.55.46:561][544]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.08-03.55.46:578][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.02.08-03.55.46:579][544]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2025.02.08-03.55.48:780][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2025.02.08-03.55.51:591][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-03.55.57:820][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-03.55.58:043][386]LogActorFactory: Actor Factory created Cube
+[2025.02.08-03.55.58:894][447]LogActorFactory: Actor Factory created Cube
+[2025.02.08-03.57.38:470][914]Cmd: EDIT COPY
+[2025.02.08-03.57.38:857][943]Cmd: EDIT PASTE
+[2025.02.08-03.57.48:778][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-03.57.49:022][684]LogActorFactory: Actor Factory created Cube
+[2025.02.08-03.57.50:024][756]LogActorFactory: Actor Factory created Cube
+[2025.02.08-03.59.08:716][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.01.01:822][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.01.02:799][118]LogActorFactory: Actor Factory created Cube
+[2025.02.08-04.01.04:813][266]LogActorFactory: Actor Factory created Cube
+[2025.02.08-04.01.15:760][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.02.25:482][311]Cmd: EDIT COPY
+[2025.02.08-04.02.25:856][339]Cmd: EDIT PASTE
+[2025.02.08-04.02.41:072][480]Cmd: TRANSACTION UNDO
+[2025.02.08-04.02.41:072][480]LogEditorTransaction: Undo Rotate Actors
+[2025.02.08-04.02.41:098][480]LogSlate: Took 0.007827 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.02.08-04.02.41:367][499]Cmd: TRANSACTION UNDO
+[2025.02.08-04.02.41:367][499]LogEditorTransaction: Undo Rotate Actors
+[2025.02.08-04.02.44:087][698]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube6)
+[2025.02.08-04.02.44:100][698]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.02.08-04.02.45:234][778]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube6)
+[2025.02.08-04.02.45:244][778]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.02.08-04.02.46:007][830]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2025.02.08-04.02.46:027][830]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.02.08-04.02.48:902][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2025.02.08-04.03.11:678][748]Cmd: TRANSACTION UNDO
+[2025.02.08-04.03.11:678][748]LogEditorTransaction: Undo Rotate Actors
+[2025.02.08-04.03.12:087][775]Cmd: TRANSACTION UNDO
+[2025.02.08-04.03.12:087][775]LogEditorTransaction: Undo Rotate Actors
+[2025.02.08-04.04.11:786][248]Cmd: DELETE
+[2025.02.08-04.04.11:786][248]Cmd: ACTOR DELETE
+[2025.02.08-04.04.11:786][248]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.08-04.04.11:807][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.02.08-04.04.11:807][248]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.02.08-04.04.12:879][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2025.02.08-04.04.13:788][398]Cmd: EDIT COPY
+[2025.02.08-04.04.14:161][426]Cmd: EDIT PASTE
+[2025.02.08-04.04.31:430][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.05.03:012][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.05.20:628][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2025.02.08-04.05.21:562][458]Cmd: EDIT COPY
+[2025.02.08-04.05.21:895][483]Cmd: EDIT PASTE
+[2025.02.08-04.05.28:924][ 10]Cmd: TRANSACTION UNDO
+[2025.02.08-04.05.28:924][ 10]LogEditorTransaction: Undo Move Actors
+[2025.02.08-04.05.31:178][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.06.01:691][454]Cmd: EDIT COPY
+[2025.02.08-04.06.02:027][479]Cmd: EDIT PASTE
+[2025.02.08-04.06.12:465][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.06.22:365][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2025.02.08-04.06.36:898][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.06.51:319][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.08-04.06.51:334][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.02.08-04.06.51:390][148]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMapD40112D34DA9E86C7C3DF4AEEE0034F7.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap'
+[2025.02.08-04.06.51:402][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap_BuiltData.uasset" SILENT=true
+[2025.02.08-04.06.51:408][148]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMap_BuiltDataA4E6F63B472A48EACFDA23AC05F5C995.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap_BuiltData.uasset'
+[2025.02.08-04.06.51:994][190]LogSlate: Took 0.006127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.02.08-04.06.55:569][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.06.55:800][457]LogActorFactory: Actor Factory created Sphere
+[2025.02.08-04.06.57:534][584]LogActorFactory: Actor Factory created Sphere
+[2025.02.08-04.07.11:293][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.07.13:402][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.08-04.07.13:418][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.02.08-04.07.13:466][731]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMapD05522F146A8E2D835393DAB7A8000B7.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap'
+[2025.02.08-04.07.13:478][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap_BuiltData.uasset" SILENT=true
+[2025.02.08-04.07.13:482][731]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMap_BuiltDataFEF8D0EA41685B42957CDF84FE825148.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap_BuiltData.uasset'
+[2025.02.08-04.07.15:147][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.07.15:267][862]LogTemp: Repeating last play command: Selected Viewport
+[2025.02.08-04.07.15:270][862]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-04.07.15:270][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.08-04.07.15:271][862]PIE: New page: PIE session: NewMap (Feb 7, 2025, 12:07:15 PM)
+[2025.02.08-04.07.15:272][862]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2025.02.08-04.07.15:272][862]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2025.02.08-04.07.15:274][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001430s)
+[2025.02.08-04.07.15:274][862]LogAIModule: Creating AISystem for world NewMap
+[2025.02.08-04.07.15:274][862]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2025.02.08-04.07.15:274][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002128s)
+[2025.02.08-04.07.15:290][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.02.08-04.07.15:299][862]LogInit: XAudio2 using 'Speakers (Razer Barracuda X 2.4)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2025.02.08-04.07.15:306][862]LogInit: FAudioDevice initialized.
+[2025.02.08-04.07.15:315][862]LogLoad: Game class is 'GameModeBase'
+[2025.02.08-04.07.15:316][862]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2025.02.07-20.07.15
+[2025.02.08-04.07.15:317][862]LogWorld: Bringing up level for play took: 0.000573
+[2025.02.08-04.07.15:317][862]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2025.02.08-04.07.15:322][862]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2025.02.08-04.07.15:323][862]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.795
+[2025.02.08-04.07.15:323][862]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-04.07.20:256][232]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-04.07.20:257][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-04.07.20:257][232]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2025.02.08-04.07.20:257][232]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.08-04.07.20:287][232]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.08-04.07.20:287][232]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-04.07.20:307][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-04.07.20:308][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.02.08-04.07.20:360][236]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2025.02.08-04.07.42:381][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.08.28:858][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2025.02.08-04.08.40:393][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.08.57:682][394]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2025.02.08-04.11.29:075][627]Cmd: DELETE
+[2025.02.08-04.11.29:075][627]Cmd: ACTOR DELETE
+[2025.02.08-04.11.29:076][627]LogEditorActor: Deleted Actor: AtmosphericFog
+[2025.02.08-04.11.29:091][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.02.08-04.11.29:091][627]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.02.08-04.12.28:208][988]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.02.08-04.12.46:010][323]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.08-04.17.18:411][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.02.08-04.17.18:465][706]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMap_Auto1DD7212C646202B1525D44E92FDE076BB.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Autosaves/Game/NewMap_Auto1.umap'
+[2025.02.08-04.17.18:466][706]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.070
+[2025.02.08-04.17.18:466][706]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.070
+[2025.02.08-04.19.07:780][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.08-04.19.07:801][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.02.08-04.19.07:851][894]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMapD211D44E4FFEED120E7862AA4EE54340.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap'
+[2025.02.08-04.19.07:862][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap_BuiltData.uasset" SILENT=true
+[2025.02.08-04.19.07:867][894]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMap_BuiltDataEEE1D5B74A24B925F0202888127CAB5A.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap_BuiltData.uasset'
+[2025.02.08-04.19.41:814][414]Cmd: DELETE
+[2025.02.08-04.19.41:814][414]Cmd: ACTOR DELETE
+[2025.02.08-04.19.41:814][414]LogEditorActor: Deleted Actor: SkyLight
+[2025.02.08-04.19.41:831][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.02.08-04.19.41:831][414]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.02.08-04.19.58:748][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.20.03:072][964]Cmd: DELETE
+[2025.02.08-04.20.03:072][964]Cmd: ACTOR DELETE
+[2025.02.08-04.20.03:072][964]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2025.02.08-04.20.03:088][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.02.08-04.20.03:088][964]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.02.08-04.20.12:902][660]Cmd: DELETE
+[2025.02.08-04.20.12:902][660]Cmd: ACTOR DELETE
+[2025.02.08-04.20.12:902][660]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2025.02.08-04.20.12:917][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.02.08-04.20.12:918][660]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.02.08-04.20.23:307][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.08-04.20.23:322][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.02.08-04.20.23:369][415]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMap95A13D574C9A19942C77508DF1EE0253.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap'
+[2025.02.08-04.20.23:380][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap_BuiltData.uasset" SILENT=true
+[2025.02.08-04.20.23:385][415]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMap_BuiltDataF06C6B494BD74C139143C2AE921C8B2E.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap_BuiltData.uasset'
+[2025.02.08-04.20.28:132][742]MapCheck: New page: Map Check
+[2025.02.08-04.20.28:158][742]Cmd: MAP REBUILD ALLVISIBLE
+[2025.02.08-04.20.28:158][742]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2025.02.08-04.20.28:162][742]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=false
+[2025.02.08-04.20.28:181][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.02.08-04.20.28:190][742]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.02.08-04.20.28:348][742]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2025.02.08-04.20.28:348][742]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.02.08-04.20.28:348][742]TextureStreamingBuild: Display: Compiling optional shaders took 0.162 seconds.
+[2025.02.08-04.20.28:349][742]LogLevel: Display: Export Material TexCoord Scales took 0.001 seconds.
+[2025.02.08-04.20.28:357][742]TextureStreamingBuild: Display: Build Texture Streaming took 0.007 seconds.
+[2025.02.08-04.20.28:372][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.02.08-04.20.28:373][742]LightingResults: New page: Lighting Build - Feb 7, 2025, 12:20:28 PM
+[2025.02.08-04.20.28:407][742]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2025.02.08-04.20.28:436][742]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2025.02.08-04.20.28:487][742]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2025.02.08-04.20.29:009][742]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2025.02.08-04.20.29:009][742]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4468
+[2025.02.08-04.20.35:886][742]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2025.02.08-04.20.35:886][742]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2025.02.08-04.20.35:886][742]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2025.02.08-04.20.35:886][742]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2025.02.08-04.20.35:886][742]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2025.02.08-04.20.35:886][742]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2025.02.08-04.20.35:957][742]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2025.02.08-04.20.35:957][742]MapCheck: New page: NewMap - Feb 7, 2025, 12:20:35 PM
+[2025.02.08-04.20.35:957][742]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2025.02.08-04.20.35:957][742]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.287ms to complete.
+[2025.02.08-04.20.35:958][742]LogEditorBuildUtils: Build time 0:07
+[2025.02.08-04.20.35:970][742]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2025.02.08-04.20.35:975][742]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2025.02.08-04.20.35:998][743]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2025.02.08-04.20.35:998][743]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2025.02.08-04.20.35:998][743]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2025.02.08-04.20.35:998][743]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2025.02.08-04.20.36:229][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.02.08-04.20.36:910][773]Job is a success!
+[2025.02.08-04.20.37:003][775]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.003s
+[2025.02.08-04.20.37:003][775]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2025.02.08-04.20.37:003][775]LogVolumetricLightmapImport:      BrickData 40x5x5 = 0.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2025.02.08-04.20.37:003][775]LogVolumetricLightmapImport:      Bricks at Level
+[2025.02.08-04.20.37:003][775]LogVolumetricLightmapImport:          0: 12.5% covering 100.0% of volume
+[2025.02.08-04.20.37:003][775]LogVolumetricLightmapImport:          1: 12.5% covering 1.6% of volume
+[2025.02.08-04.20.37:003][775]LogVolumetricLightmapImport:          2: 75.0% covering 0.1% of volume
+[2025.02.08-04.20.37:053][775]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2025.02.08-04.20.37:054][775]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2025.02.08-04.20.37:054][775]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X64)
+[2025.02.08-04.20.37:087][775]Lightmass on CAPTNTOTOPC: 488 ms total, 38 ms importing, 4 ms setup, 48 ms photons, 371 ms processing, 0 ms extra exporting [7/7 mappings]. Threads: 4.07 sec total, 157 ms processing.
+[2025.02.08-04.20.37:118][775]LogStaticLightingSystem: NewMap_BuiltData storing lightmap data for 7 meshes in 1 LightmapResourceClusters (7.0 Meshes per cluster).
+[2025.02.08-04.20.37:135][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.02.08-04.20.37:141][775]LogStaticLightingSystem: Illumination: 8.75 sec (10 ms encoding lightmaps, 4 ms encoding shadowmaps)
+[2025.02.08-04.20.37:141][775]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2025.02.08-04.20.37:141][775]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2025.02.08-04.20.37:889][775]DumpUnbuiltLightIteractions
+[2025.02.08-04.20.37:889][775]Lights with unbuilt interactions: 0
+[2025.02.08-04.20.37:889][775]
+[2025.02.08-04.20.37:889][775]Primitives with unbuilt interactions: 0
+[2025.02.08-04.20.37:904][776]Cmd: MAP CHECK NOTIFYRESULTS
+[2025.02.08-04.20.37:904][776]MapCheck: New page: NewMap - Feb 7, 2025, 12:20:37 PM
+[2025.02.08-04.20.37:905][776]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.232ms to complete.
+[2025.02.08-04.20.44:026][225]LogSlate: Window 'Message Log' being destroyed
+[2025.02.08-04.20.44:041][225]LogSlate: Window 'Message Log' being destroyed
+[2025.02.08-04.25.18:997][819]Cmd: DELETE
+[2025.02.08-04.25.18:997][819]Cmd: ACTOR DELETE
+[2025.02.08-04.25.18:998][819]LogEditorActor: Deleted Actor: PlayerStart
+[2025.02.08-04.25.19:015][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.02.08-04.25.19:015][819]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.02.08-04.26.10:676][671]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2025.02.08-04.26.13:759][900]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.02.08-04.26.13:769][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.08-04.26.13:784][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.02.08-04.26.13:832][900]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMap688843344C46DFDCB6F747AD21FB7156.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap'
+[2025.02.08-04.26.13:842][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap_BuiltData.uasset" SILENT=true
+[2025.02.08-04.26.13:848][900]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMap_BuiltDataDABFEA8B4AA0D2F151AF32B5C9C161AE.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap_BuiltData.uasset'
+[2025.02.08-04.26.15:328][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.26.15:488][ 19]LogTemp: Repeating last play command: Selected Viewport
+[2025.02.08-04.26.15:492][ 19]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-04.26.15:492][ 19]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.08-04.26.15:492][ 19]PIE: New page: PIE session: NewMap (Feb 7, 2025, 12:26:15 PM)
+[2025.02.08-04.26.15:492][ 19]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2025.02.08-04.26.15:493][ 19]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000950s)
+[2025.02.08-04.26.15:494][ 19]LogAIModule: Creating AISystem for world NewMap
+[2025.02.08-04.26.15:494][ 19]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2025.02.08-04.26.15:494][ 19]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.001607s)
+[2025.02.08-04.26.15:509][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.02.08-04.26.15:517][ 19]LogInit: XAudio2 using 'Speakers (Razer Barracuda X 2.4)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2025.02.08-04.26.15:523][ 19]LogInit: FAudioDevice initialized.
+[2025.02.08-04.26.15:532][ 19]LogLoad: Game class is 'GameModeBase'
+[2025.02.08-04.26.15:533][ 19]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2025.02.07-20.26.15
+[2025.02.08-04.26.15:533][ 19]LogWorld: Bringing up level for play took: 0.000367
+[2025.02.08-04.26.15:533][ 19]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2025.02.08-04.26.15:534][ 19]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 1.006
+[2025.02.08-04.26.15:534][ 19]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-04.26.21:996][500]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-04.26.21:996][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-04.26.21:996][500]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2025.02.08-04.26.21:996][500]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.08-04.26.22:015][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.08-04.26.22:015][500]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-04.26.22:033][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-04.26.22:035][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.02.08-04.26.22:104][507]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.02.08-04.26.28:947][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.02.08-04.26.28:962][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.08-04.26.28:978][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.02.08-04.26.29:024][ 19]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMapEFA92DD34F5332AF927054859F07F3D0.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap'
+[2025.02.08-04.26.29:036][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap_BuiltData.uasset" SILENT=true
+[2025.02.08-04.26.29:042][ 19]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMap_BuiltDataE1ED1ED84033BD605AE48391CA88F9A4.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap_BuiltData.uasset'
+[2025.02.08-04.26.43:323][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2025.02.08-04.26.44:844][202]Cmd: EDIT COPY
+[2025.02.08-04.26.45:177][227]Cmd: EDIT PASTE
+[2025.02.08-04.26.59:195][277]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.02.08-04.26.59:210][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.08-04.26.59:225][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.02.08-04.26.59:274][277]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMap13092EB448434523A3B1F0A89479DF6E.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap'
+[2025.02.08-04.26.59:286][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap_BuiltData.uasset" SILENT=true
+[2025.02.08-04.26.59:295][277]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMap_BuiltData390274A44C7AF80457E3E8AC68273075.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap_BuiltData.uasset'
+[2025.02.08-04.35.06:634][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.35.16:021][481]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2025.02.08-04.35.21:814][917]Cmd: DELETE
+[2025.02.08-04.35.21:814][917]Cmd: ACTOR DELETE
+[2025.02.08-04.35.21:815][917]LogEditorActor: Deleted Actor: Brush
+[2025.02.08-04.35.21:831][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.02.08-04.35.21:831][917]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.02.08-04.35.23:041][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.35.24:674][123]LogActorFactory: Actor Factory created Cube
+[2025.02.08-04.35.26:100][227]LogActorFactory: Actor Factory created Cube
+[2025.02.08-04.35.56:581][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.36.39:856][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2025.02.08-04.36.49:258][442]Cmd: SELECT NONE
+[2025.02.08-04.36.49:981][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2025.02.08-04.36.51:126][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2025.02.08-04.37.12:264][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2025.02.08-04.37.16:838][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2025.02.08-04.37.44:527][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.38.03:107][965]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.02.08-04.38.03:121][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.08-04.38.03:136][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.02.08-04.38.03:187][965]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMap00CFB135474FF69985236C9FB4995380.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap'
+[2025.02.08-04.38.03:198][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap_BuiltData.uasset" SILENT=true
+[2025.02.08-04.38.03:205][965]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMap_BuiltData8766D7D6436049B746B4CAA3F709238B.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap_BuiltData.uasset'
+[2025.02.08-04.38.08:172][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2025.02.08-04.38.23:479][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.38.40:910][787]Cmd: EDIT COPY
+[2025.02.08-04.38.41:271][814]Cmd: EDIT PASTE
+[2025.02.08-04.38.47:272][264]Cmd: TRANSACTION UNDO
+[2025.02.08-04.38.47:272][264]LogEditorTransaction: Undo Move Actors
+[2025.02.08-04.38.48:152][325]Cmd: TRANSACTION UNDO
+[2025.02.08-04.38.48:152][325]LogEditorTransaction: Undo Move Actors
+[2025.02.08-04.38.50:206][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.38.53:700][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.39.01:622][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.39.15:987][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2025.02.08-04.39.17:092][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2025.02.08-04.39.53:755][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.41.15:721][274]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2025.02.08-04.41.15:759][274]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.02.08-04.41.16:600][335]LogEditorViewport: Clicking Background
+[2025.02.08-04.41.25:814][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.41.25:975][ 36]MapCheck: New page: Map Check
+[2025.02.08-04.41.25:992][ 36]Cmd: MAP REBUILD ALLVISIBLE
+[2025.02.08-04.41.25:992][ 36]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2025.02.08-04.41.25:994][ 36]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=false
+[2025.02.08-04.41.26:010][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.02.08-04.41.26:018][ 36]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.02.08-04.41.26:022][ 36]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.02.08-04.41.26:170][ 36]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2025.02.08-04.41.26:170][ 36]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2025.02.08-04.41.26:170][ 36]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2025.02.08-04.41.26:170][ 36]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2025.02.08-04.41.26:170][ 36]TextureStreamingBuild: Display: Compiling optional shaders took 0.153 seconds.
+[2025.02.08-04.41.26:176][ 36]LogLevel: Display: Export Material TexCoord Scales took 0.006 seconds.
+[2025.02.08-04.41.26:184][ 36]TextureStreamingBuild: Display: Build Texture Streaming took 0.007 seconds.
+[2025.02.08-04.41.26:199][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.02.08-04.41.26:199][ 36]LightingResults: New page: Lighting Build - Feb 7, 2025, 12:41:26 PM
+[2025.02.08-04.41.26:202][ 36]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2025.02.08-04.41.26:204][ 36]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2025.02.08-04.41.26:204][ 36]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2025.02.08-04.41.26:204][ 36]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2025.02.08-04.41.26:204][ 36]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4468
+[2025.02.08-04.41.31:609][ 36]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2025.02.08-04.41.31:609][ 36]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2025.02.08-04.41.31:609][ 36]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2025.02.08-04.41.31:609][ 36]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2025.02.08-04.41.31:609][ 36]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2025.02.08-04.41.31:609][ 36]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2025.02.08-04.41.31:624][ 36]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2025.02.08-04.41.31:624][ 36]MapCheck: New page: NewMap - Feb 7, 2025, 12:41:31 PM
+[2025.02.08-04.41.31:624][ 36]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2025.02.08-04.41.31:625][ 36]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.288ms to complete.
+[2025.02.08-04.41.31:626][ 36]LogEditorBuildUtils: Build time 0:05
+[2025.02.08-04.41.31:628][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.02.08-04.41.31:663][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.02.08-04.41.32:177][ 62]Job is a success!
+[2025.02.08-04.41.32:260][ 64]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.003s
+[2025.02.08-04.41.32:260][ 64]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2025.02.08-04.41.32:260][ 64]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2025.02.08-04.41.32:260][ 64]LogVolumetricLightmapImport:      Bricks at Level
+[2025.02.08-04.41.32:260][ 64]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2025.02.08-04.41.32:260][ 64]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2025.02.08-04.41.32:260][ 64]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2025.02.08-04.41.32:350][ 64]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2025.02.08-04.41.32:350][ 64]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2025.02.08-04.41.32:350][ 64]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X64)
+[2025.02.08-04.41.32:376][ 64]Lightmass on CAPTNTOTOPC: 516 ms total, 35 ms importing, 3 ms setup, 56 ms photons, 375 ms processing, 0 ms extra exporting [9/9 mappings]. Threads: 4.12 sec total, 225 ms processing.
+[2025.02.08-04.41.32:403][ 64]LogStaticLightingSystem: NewMap_BuiltData storing lightmap data for 9 meshes in 1 LightmapResourceClusters (9.0 Meshes per cluster).
+[2025.02.08-04.41.32:445][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.02.08-04.41.32:450][ 64]LogStaticLightingSystem: Illumination: 6.22 sec (17 ms encoding lightmaps, 9 ms encoding shadowmaps)
+[2025.02.08-04.41.32:450][ 64]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 2 textures
+[2025.02.08-04.41.32:450][ 64]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 1 textures
+[2025.02.08-04.41.32:611][ 64]DumpUnbuiltLightIteractions
+[2025.02.08-04.41.32:611][ 64]Lights with unbuilt interactions: 0
+[2025.02.08-04.41.32:611][ 64]
+[2025.02.08-04.41.32:611][ 64]Primitives with unbuilt interactions: 0
+[2025.02.08-04.41.32:614][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.02.08-04.41.32:629][ 65]Cmd: MAP CHECK NOTIFYRESULTS
+[2025.02.08-04.41.32:629][ 65]MapCheck: New page: NewMap - Feb 7, 2025, 12:41:32 PM
+[2025.02.08-04.41.32:630][ 65]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.205ms to complete.
+[2025.02.08-04.41.39:152][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.41.39:324][555]LogSlate: Window 'Message Log' being destroyed
+[2025.02.08-04.41.39:339][555]LogSlate: Window 'Message Log' being destroyed
+[2025.02.08-04.44.33:913][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rightPaddle)
+[2025.02.08-04.44.39:819][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.47.33:712][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.48.55:183][803]EditorErrors: New page: Actor attachment
+[2025.02.08-04.49.29:431][132]LogSlate: Window 'Select Path' being destroyed
+[2025.02.08-04.49.29:482][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.02.08-04.49.29:491][132]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/RightPaddle.RightPaddle
+[2025.02.08-04.49.29:661][132]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2025.02.08-04.49.37:631][682]LogSlate: Window 'Tutorials' being destroyed
+[2025.02.08-04.50.03:274][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2025.02.08-04.50.03:359][591]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMap_Auto28B13A20D494D569B7B1B8D95772595A7.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Autosaves/Game/NewMap_Auto2.umap'
+[2025.02.08-04.50.03:360][591]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.110
+[2025.02.08-04.50.03:360][591]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.110
+[2025.02.08-04.50.03:362][591]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/RightPaddle] ([1] browsable assets)...
+[2025.02.08-04.50.03:362][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/RightPaddle]
+[2025.02.08-04.50.03:365][591]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/RightPaddle_Auto2F5EF25FD425CCF6D80347D8511CF76FA.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Autosaves/Game/Blueprints/RightPaddle_Auto2.uasset'
+[2025.02.08-04.50.03:365][591]LogFileHelpers: Auto-saving content packages took 0.004
+[2025.02.08-04.58.46:065][665]LogSlate: Window 'Tutorials' being destroyed
+[2025.02.08-04.58.46:081][665]LogSlate: Window 'Tutorials' being destroyed
+[2025.02.08-04.59.10:076][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-04.59.10:088][463]LogSlate: Took 0.010893 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.02.08-06.17.57:827][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2025.02.08-06.17.57:916][583]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMap_Auto3B34D28764642454262FAD2BD9DB7EDF3.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Autosaves/Game/NewMap_Auto3.umap'
+[2025.02.08-06.17.57:918][583]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.111
+[2025.02.08-06.17.57:918][583]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.111
+[2025.02.08-06.17.57:919][583]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/RightPaddle] ([1] browsable assets)...
+[2025.02.08-06.17.57:919][583]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/RightPaddle]
+[2025.02.08-06.17.57:921][583]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/RightPaddle_Auto32A4E2FB84008B56ABB157AA4881A97ED.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Autosaves/Game/Blueprints/RightPaddle_Auto3.uasset'
+[2025.02.08-06.17.57:922][583]LogFileHelpers: Auto-saving content packages took 0.003
+[2025.02.08-06.40.00:449][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2025.02.08-06.40.00:449][701]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.021
+[2025.02.08-06.40.00:450][701]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/RightPaddle] ([1] browsable assets)...
+[2025.02.08-06.40.00:450][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/RightPaddle]
+[2025.02.08-06.40.00:453][701]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/RightPaddle_Auto42F30BCF7408AED0D83E685912095D76D.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Autosaves/Game/Blueprints/RightPaddle_Auto4.uasset'
+[2025.02.08-06.40.00:453][701]LogFileHelpers: Auto-saving content packages took 0.004
+[2025.02.08-06.40.29:522][825]LogSlate: Took 0.006150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.02.08-06.47.26:469][768]LogSlate: Window 'Change Variable Type' being destroyed
+[2025.02.08-06.47.29:199][962]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.02.08-06.47.29:215][962]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.02.08-06.50.19:578][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2025.02.08-06.50.19:664][860]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMap_Auto5F12AEDEC4278D34C181E24B8D37DD86C.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Autosaves/Game/NewMap_Auto5.umap'
+[2025.02.08-06.50.19:666][860]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.110
+[2025.02.08-06.50.19:666][860]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.110
+[2025.02.08-06.50.19:666][860]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/RightPaddle] ([1] browsable assets)...
+[2025.02.08-06.50.19:666][860]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/RightPaddle]
+[2025.02.08-06.50.19:674][860]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/RightPaddle_Auto5959208A34410183F9A6757AB0391DA79.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Autosaves/Game/Blueprints/RightPaddle_Auto5.uasset'
+[2025.02.08-06.50.19:674][860]LogFileHelpers: Auto-saving content packages took 0.007
+[2025.02.08-06.58.32:117][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/RightPaddle" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/Blueprints/RightPaddle.uasset" SILENT=true
+[2025.02.08-06.58.32:125][278]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/RightPaddle3D4D858F46BA937E18E297BDB367C7D1.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/Blueprints/RightPaddle.uasset'
+[2025.02.08-06.59.21:496][870]EditorErrors: New page: Actor attachment
+[2025.02.08-07.00.34:624][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/RightPaddle" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/Blueprints/RightPaddle.uasset" SILENT=true
+[2025.02.08-07.00.34:631][202]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/RightPaddle7C3209194ECD395A2147478571B253C6.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/Blueprints/RightPaddle.uasset'
+[2025.02.08-07.02.35:639][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/RightPaddle" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/Blueprints/RightPaddle.uasset" SILENT=true
+[2025.02.08-07.02.35:646][823]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/RightPaddle126C804C4B8403AA63278BA53FC752B9.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/Blueprints/RightPaddle.uasset'
+[2025.02.08-07.02.40:343][157]BlueprintLog: New page: Compile RightPaddle
+[2025.02.08-07.02.40:452][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2025.02.08-07.03.05:283][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/RightPaddle" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/Blueprints/RightPaddle.uasset" SILENT=true
+[2025.02.08-07.03.05:291][998]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/RightPaddleF09C1A9A4BB9757B143419AE505CF63D.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/Blueprints/RightPaddle.uasset'
+[2025.02.08-07.03.54:242][659]Cmd: TRANSACTION UNDO
+[2025.02.08-07.03.54:242][659]LogEditorTransaction: Undo Rotate Actors
+[2025.02.08-07.03.56:720][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-07.04.00:683][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.08-07.04.00:703][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.02.08-07.04.00:788][131]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMap81465F5A4E2D5CD2036992AC0EEC89A3.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap'
+[2025.02.08-07.04.00:800][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap_BuiltData.uasset" SILENT=true
+[2025.02.08-07.04.00:813][131]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMap_BuiltData4612F0FE4490CD165C2154B831C99AB8.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap_BuiltData.uasset'
+[2025.02.08-07.04.02:960][291]LogTemp: Repeating last play command: Selected Viewport
+[2025.02.08-07.04.02:964][291]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-07.04.02:964][291]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.02.08-07.04.02:965][291]LogPlayLevel: [PlayLevel] Compiling RightPaddle before play...
+[2025.02.08-07.04.03:073][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.02.08-07.04.03:073][291]LogPlayLevel: PlayLevel: Blueprint regeneration took 109 ms (1 blueprints)
+[2025.02.08-07.04.03:074][291]PIE: New page: PIE session: NewMap (Feb 7, 2025, 3:04:03 PM)
+[2025.02.08-07.04.03:074][291]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2025.02.08-07.04.03:075][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001134s)
+[2025.02.08-07.04.03:075][291]LogAIModule: Creating AISystem for world NewMap
+[2025.02.08-07.04.03:075][291]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2025.02.08-07.04.03:075][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.001805s)
+[2025.02.08-07.04.03:093][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.02.08-07.04.03:102][291]LogInit: XAudio2 using 'Speakers (Razer Barracuda X 2.4)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2025.02.08-07.04.03:110][291]LogInit: FAudioDevice initialized.
+[2025.02.08-07.04.03:117][291]LogLoad: Game class is 'GameModeBase'
+[2025.02.08-07.04.03:118][291]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2025.02.07-23.04.03
+[2025.02.08-07.04.03:118][291]LogWorld: Bringing up level for play took: 0.000477
+[2025.02.08-07.04.03:118][291]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2025.02.08-07.04.03:119][291]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.591
+[2025.02.08-07.04.03:119][291]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-07.04.17:578][354]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-07.04.17:578][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-07.04.17:578][354]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2025.02.08-07.04.17:578][354]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.08-07.04.17:598][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.08-07.04.17:598][354]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-07.04.17:617][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-07.04.17:619][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.02.08-07.04.17:686][361]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.02.08-07.04.36:155][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-07.07.57:390][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/RightPaddle" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/Blueprints/RightPaddle.uasset" SILENT=true
+[2025.02.08-07.07.57:400][741]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/RightPaddle7960DA744DFE41E71101A28373484F91.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/Blueprints/RightPaddle.uasset'
+[2025.02.08-07.07.58:921][852]BlueprintLog: New page: Compile RightPaddle
+[2025.02.08-07.07.59:022][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2025.02.08-07.08.31:715][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-07.08.44:189][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2025.02.08-07.08.45:202][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rightPaddle)
+[2025.02.08-07.08.51:599][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-07.09.17:273][662]Cmd: TRANSACTION UNDO
+[2025.02.08-07.09.17:273][662]LogEditorTransaction: Undo Rotate Actors
+[2025.02.08-07.09.34:119][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-07.09.48:454][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-07.09.58:578][747]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.02.08-07.09.58:591][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.08-07.09.58:612][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.02.08-07.09.58:697][747]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMap028F3B4E4D2F0874E56F128E824A2F55.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap'
+[2025.02.08-07.09.58:708][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap_BuiltData.uasset" SILENT=true
+[2025.02.08-07.09.58:717][747]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMap_BuiltData802863474D6A2694D76A7583649830A1.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap_BuiltData.uasset'
+[2025.02.08-07.10.06:722][338]LogTemp: Repeating last play command: Selected Viewport
+[2025.02.08-07.10.06:726][338]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-07.10.06:726][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.08-07.10.06:726][338]PIE: New page: PIE session: NewMap (Feb 7, 2025, 3:10:06 PM)
+[2025.02.08-07.10.06:726][338]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2025.02.08-07.10.06:728][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001167s)
+[2025.02.08-07.10.06:728][338]LogAIModule: Creating AISystem for world NewMap
+[2025.02.08-07.10.06:728][338]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2025.02.08-07.10.06:728][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.001831s)
+[2025.02.08-07.10.06:750][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.02.08-07.10.06:757][338]LogInit: XAudio2 using 'Speakers (Razer Barracuda X 2.4)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2025.02.08-07.10.06:764][338]LogInit: FAudioDevice initialized.
+[2025.02.08-07.10.06:769][338]LogLoad: Game class is 'GameModeBase'
+[2025.02.08-07.10.06:770][338]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2025.02.07-23.10.06
+[2025.02.08-07.10.06:770][338]LogWorld: Bringing up level for play took: 0.000430
+[2025.02.08-07.10.06:770][338]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2025.02.08-07.10.06:771][338]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.243
+[2025.02.08-07.10.06:771][338]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-07.10.24:636][679]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-07.10.24:636][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-07.10.24:636][679]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2025.02.08-07.10.24:636][679]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.08-07.10.24:666][679]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.08-07.10.24:666][679]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-07.10.24:688][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-07.10.24:689][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.02.08-07.10.24:739][684]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.02.08-07.10.30:026][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2025.02.08-07.10.41:482][893]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-07.10.41:483][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.08-07.10.41:483][893]PIE: New page: SIE session: NewMap (Feb 7, 2025, 3:10:41 PM)
+[2025.02.08-07.10.41:483][893]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2025.02.08-07.10.41:484][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001190s)
+[2025.02.08-07.10.41:484][893]LogAIModule: Creating AISystem for world NewMap
+[2025.02.08-07.10.41:484][893]LogPlayLevel: PIE: World Init took: (0.000568s)
+[2025.02.08-07.10.41:484][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.001819s)
+[2025.02.08-07.10.41:504][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.02.08-07.10.41:511][893]LogInit: XAudio2 using 'Speakers (Razer Barracuda X 2.4)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2025.02.08-07.10.41:518][893]LogInit: FAudioDevice initialized.
+[2025.02.08-07.10.41:518][893]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2025.02.08-07.10.41:526][893]LogLoad: Game class is 'GameModeBase'
+[2025.02.08-07.10.41:526][893]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2025.02.07-23.10.41
+[2025.02.08-07.10.41:526][893]LogWorld: Bringing up level for play took: 0.000443
+[2025.02.08-07.10.41:526][893]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2025.02.08-07.10.41:527][893]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.02.08-07.10.41:527][893]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 1
+[2025.02.08-07.10.41:541][893]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-07.10.43:987][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rightPaddle)
+[2025.02.08-07.10.49:733][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-07.10.54:229][833]LogEditorViewport: Clicking Background
+[2025.02.08-07.10.55:803][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rightPaddle)
+[2025.02.08-07.11.01:936][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-07.11.23:302][  7]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-07.11.23:302][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-07.11.23:302][  7]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2025.02.08-07.11.23:303][  7]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.08-07.11.23:321][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.08-07.11.23:321][  7]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-07.11.23:344][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-07.11.23:347][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.02.08-07.11.23:410][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.02.08-07.11.25:596][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rightPaddle)
+[2025.02.08-07.11.28:105][365]LogEditorViewport: Clicking on Actor (LMB): RightPaddle_C (RightPaddleParent)
+[2025.02.08-07.11.52:108][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-07.12.02:489][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rightPaddle)
+[2025.02.08-07.12.04:343][ 70]LogEditorViewport: Clicking on Actor (LMB): RightPaddle_C (RightPaddleParent)
+[2025.02.08-07.12.05:513][159]Cmd: TRANSACTION UNDO
+[2025.02.08-07.12.05:513][159]LogEditorTransaction: Undo Clicking on Actors
+[2025.02.08-07.12.07:071][269]Cmd: TRANSACTION UNDO
+[2025.02.08-07.12.07:071][269]LogEditorTransaction: Undo Clicking on Actors
+[2025.02.08-07.12.08:326][359]Cmd: TRANSACTION UNDO
+[2025.02.08-07.12.08:326][359]LogEditorTransaction: Undo Edit Z
+[2025.02.08-07.12.13:912][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-07.12.23:570][489]LogEditorViewport: Clicking on Actor (LMB): RightPaddle_C (RightPaddleParent)
+[2025.02.08-07.12.24:226][538]LogEditorViewport: Clicking on Actor (LMB): RightPaddle_C (RightPaddleParent)
+[2025.02.08-07.12.25:011][598]Cmd: SELECT NONE
+[2025.02.08-07.12.25:853][659]LogEditorViewport: Clicking on Actor (LMB): RightPaddle_C (RightPaddleParent)
+[2025.02.08-07.12.50:734][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-07.12.56:526][905]LogEditorViewport: Clicking on Actor (LMB): RightPaddle_C (RightPaddleParent)
+[2025.02.08-07.13.01:457][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-07.13.43:179][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.08-07.13.43:204][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.02.08-07.13.43:288][282]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMapAF05B52549C693248442039AC3FE877E.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap'
+[2025.02.08-07.13.43:298][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap_BuiltData.uasset" SILENT=true
+[2025.02.08-07.13.43:308][282]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMap_BuiltDataA9E3F924453855B5E12AE59A97EAC2FC.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap_BuiltData.uasset'
+[2025.02.08-07.13.45:199][416]LogTemp: Repeating last play command: Simulate
+[2025.02.08-07.13.45:203][416]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-07.13.45:203][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.08-07.13.45:203][416]PIE: New page: SIE session: NewMap (Feb 7, 2025, 3:13:45 PM)
+[2025.02.08-07.13.45:203][416]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2025.02.08-07.13.45:205][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001157s)
+[2025.02.08-07.13.45:206][416]LogAIModule: Creating AISystem for world NewMap
+[2025.02.08-07.13.45:206][416]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2025.02.08-07.13.45:206][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.001802s)
+[2025.02.08-07.13.45:224][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.02.08-07.13.45:232][416]LogInit: XAudio2 using 'Speakers (Razer Barracuda X 2.4)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2025.02.08-07.13.45:238][416]LogInit: FAudioDevice initialized.
+[2025.02.08-07.13.45:246][416]LogLoad: Game class is 'GameModeBase'
+[2025.02.08-07.13.45:247][416]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2025.02.07-23.13.45
+[2025.02.08-07.13.45:247][416]LogWorld: Bringing up level for play took: 0.000469
+[2025.02.08-07.13.45:247][416]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2025.02.08-07.13.45:248][416]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.02.08-07.13.45:248][416]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.72
+[2025.02.08-07.13.45:249][416]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-07.13.58:591][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rightPaddle)
+[2025.02.08-07.14.03:190][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-07.14.26:023][450]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-07.14.26:023][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-07.14.26:023][450]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2025.02.08-07.14.26:024][450]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.08-07.14.26:056][450]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.08-07.14.26:056][450]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-07.14.26:077][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-07.14.26:080][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.02.08-07.14.26:129][455]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.02.08-07.20.14:742][676]BlueprintLog: New page: Compile RightPaddle
+[2025.02.08-07.20.14:845][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2025.02.08-07.20.24:904][401]LogTemp: Repeating last play command: Simulate
+[2025.02.08-07.20.24:907][401]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-07.20.24:907][401]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.08-07.20.24:907][401]PIE: New page: SIE session: NewMap (Feb 7, 2025, 3:20:24 PM)
+[2025.02.08-07.20.24:907][401]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2025.02.08-07.20.24:909][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001141s)
+[2025.02.08-07.20.24:910][401]LogAIModule: Creating AISystem for world NewMap
+[2025.02.08-07.20.24:910][401]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2025.02.08-07.20.24:910][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.001804s)
+[2025.02.08-07.20.24:948][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.02.08-07.20.24:955][401]LogInit: XAudio2 using 'Speakers (Razer Barracuda X 2.4)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2025.02.08-07.20.24:963][401]LogInit: FAudioDevice initialized.
+[2025.02.08-07.20.24:971][401]LogLoad: Game class is 'GameModeBase'
+[2025.02.08-07.20.24:972][401]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2025.02.07-23.20.24
+[2025.02.08-07.20.24:972][401]LogWorld: Bringing up level for play took: 0.000485
+[2025.02.08-07.20.24:972][401]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2025.02.08-07.20.24:973][401]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.02.08-07.20.24:973][401]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.315
+[2025.02.08-07.20.24:974][401]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-07.20.41:442][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-07.20.41:443][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-07.20.41:443][585]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2025.02.08-07.20.41:443][585]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.08-07.20.41:466][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.08-07.20.41:466][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-07.20.41:488][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-07.20.41:491][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.02.08-07.20.41:551][591]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.02.08-07.24.16:119][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/RightPaddle" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/Blueprints/RightPaddle.uasset" SILENT=true
+[2025.02.08-07.24.16:129][ 80]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/RightPaddle8DE2BC9A43CF7C48600954BF03B425B6.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/Blueprints/RightPaddle.uasset'
+[2025.02.08-07.24.17:664][194]BlueprintLog: New page: Compile RightPaddle
+[2025.02.08-07.24.17:766][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2025.02.08-07.24.24:985][715]LogTemp: Repeating last play command: Simulate
+[2025.02.08-07.24.24:989][715]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-07.24.24:989][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.08-07.24.24:989][715]PIE: New page: SIE session: NewMap (Feb 7, 2025, 3:24:24 PM)
+[2025.02.08-07.24.24:989][715]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2025.02.08-07.24.24:990][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001107s)
+[2025.02.08-07.24.24:991][715]LogAIModule: Creating AISystem for world NewMap
+[2025.02.08-07.24.24:991][715]LogPlayLevel: PIE: World Init took: (0.000598s)
+[2025.02.08-07.24.24:991][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.001764s)
+[2025.02.08-07.24.25:012][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2025.02.08-07.24.25:020][715]LogInit: XAudio2 using 'Speakers (Razer Barracuda X 2.4)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2025.02.08-07.24.25:027][715]LogInit: FAudioDevice initialized.
+[2025.02.08-07.24.25:033][715]LogLoad: Game class is 'GameModeBase'
+[2025.02.08-07.24.25:033][715]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2025.02.07-23.24.25
+[2025.02.08-07.24.25:034][715]LogWorld: Bringing up level for play took: 0.000470
+[2025.02.08-07.24.25:034][715]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2025.02.08-07.24.25:034][715]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.02.08-07.24.25:035][715]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.253
+[2025.02.08-07.24.25:035][715]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-07.24.26:308][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rightPaddle)
+[2025.02.08-07.24.28:574][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-07.24.31:375][179]LogEditorViewport: Clicking Background
+[2025.02.08-07.24.35:856][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rightPaddle)
+[2025.02.08-07.24.37:322][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.08-07.24.45:018][269]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-07.24.45:018][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-07.24.45:018][269]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2025.02.08-07.24.45:019][269]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.08-07.24.45:051][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.08-07.24.45:051][269]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2025.02.08-07.24.45:075][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-07.24.45:077][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.02.08-07.24.45:126][274]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.02.08-07.26.04:664][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2025.02.08-07.26.04:751][165]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMap_Auto65F441EBC45694ECFC7BD7290EB423DF0.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Autosaves/Game/NewMap_Auto6.umap'
+[2025.02.08-07.26.04:752][165]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.109
+[2025.02.08-07.26.04:752][165]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.109
+[2025.02.08-07.26.04:754][165]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/RightPaddle] ([1] browsable assets)...
+[2025.02.08-07.26.04:754][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/RightPaddle]
+[2025.02.08-07.26.04:763][165]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/RightPaddle_Auto6F8B41433407273B3351FB8983DE98B5A.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Autosaves/Game/Blueprints/RightPaddle_Auto6.uasset'
+[2025.02.08-07.26.04:763][165]LogFileHelpers: Auto-saving content packages took 0.009
+[2025.02.08-07.26.33:749][328]BlueprintLog: New page: Compile RightPaddle
+[2025.02.08-07.26.33:851][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.02.08-07.27.19:454][736]LogSlate: Window 'RightPaddle' being destroyed
+[2025.02.08-07.27.19:468][736]LogSlate: Window 'RightPaddle' being destroyed
+[2025.02.08-07.27.19:472][736]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.02.08-07.27.31:034][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.08-07.27.31:054][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.02.08-07.27.31:136][600]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMap2771716E462E8BB6EA40308DE87FF930.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap.umap'
+[2025.02.08-07.27.31:147][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap_BuiltData.uasset" SILENT=true
+[2025.02.08-07.27.31:157][600]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/NewMap_BuiltData3BAAF22A4EF840B2D10AC9B72B586D38.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/NewMap_BuiltData.uasset'
+[2025.02.08-07.27.36:462][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.02.08-07.27.36:470][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/RightPaddle" FILE="../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/Blueprints/RightPaddle.uasset" SILENT=true
+[2025.02.08-07.27.36:479][968]LogSavePackage: Moving '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/RightPaddle7250F27B401CCAB705CF5FB0DA29C4E8.tmp' to '../../../../../../Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Content/Blueprints/RightPaddle.uasset'
+[2025.02.08-07.27.38:846][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.02.08-07.27.38:868][145]LogSlate: Window 'Project - Unreal Editor' being destroyed
+[2025.02.08-07.27.38:939][146]Cmd: QUIT_EDITOR
+[2025.02.08-07.27.39:311][146]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2025.02.08-07.27.39:316][146]LogExit: Preparing to exit.
+[2025.02.08-07.27.39:505][146]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.02.08-07.27.39:507][146]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.02.08-07.27.39:508][146]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.02.08-07.27.39:509][146]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.02.08-07.27.39:524][146]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2025.02.08-07.27.39:529][146]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2025.02.08-07.27.39:529][146]LogExit: Editor shut down
+[2025.02.08-07.27.39:529][146]LogExit: Transaction tracking system shut down
+[2025.02.08-07.27.39:726][146]LogExit: Object subsystem successfully closed.
+[2025.02.08-07.27.39:743][146]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.02.08-07.27.39:758][146]LogModuleManager: Shutting down and abandoning module BlueprintGraph (676)
+[2025.02.08-07.27.39:758][146]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (674)
+[2025.02.08-07.27.39:758][146]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (672)
+[2025.02.08-07.27.39:758][146]LogModuleManager: Shutting down and abandoning module Voice (670)
+[2025.02.08-07.27.39:758][146]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2025.02.08-07.27.39:758][146]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2025.02.08-07.27.39:758][146]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2025.02.08-07.27.39:758][146]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2025.02.08-07.27.39:758][146]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2025.02.08-07.27.39:758][146]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2025.02.08-07.27.39:758][146]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2025.02.08-07.27.39:758][146]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2025.02.08-07.27.39:758][146]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2025.02.08-07.27.39:758][146]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2025.02.08-07.27.39:758][146]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2025.02.08-07.27.39:758][146]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2025.02.08-07.27.39:758][146]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2025.02.08-07.27.39:758][146]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2025.02.08-07.27.39:758][146]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2025.02.08-07.27.39:758][146]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2025.02.08-07.27.39:758][146]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2025.02.08-07.27.39:759][146]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2025.02.08-07.27.39:759][146]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2025.02.08-07.27.39:759][146]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2025.02.08-07.27.39:759][146]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2025.02.08-07.27.39:759][146]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2025.02.08-07.27.39:759][146]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2025.02.08-07.27.39:759][146]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2025.02.08-07.27.39:759][146]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2025.02.08-07.27.39:760][146]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2025.02.08-07.27.39:761][146]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2025.02.08-07.27.39:761][146]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2025.02.08-07.27.39:761][146]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2025.02.08-07.27.39:761][146]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2025.02.08-07.27.39:761][146]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2025.02.08-07.27.39:761][146]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2025.02.08-07.27.39:761][146]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2025.02.08-07.27.39:761][146]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2025.02.08-07.27.39:761][146]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2025.02.08-07.27.40:580][146]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2025.02.08-07.27.40:580][146]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2025.02.08-07.27.40:580][146]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2025.02.08-07.27.40:580][146]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2025.02.08-07.27.40:580][146]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2025.02.08-07.27.40:580][146]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2025.02.08-07.27.40:580][146]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2025.02.08-07.27.40:580][146]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2025.02.08-07.27.40:580][146]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2025.02.08-07.27.40:580][146]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2025.02.08-07.27.40:580][146]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2025.02.08-07.27.40:580][146]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2025.02.08-07.27.40:580][146]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2025.02.08-07.27.40:580][146]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2025.02.08-07.27.40:580][146]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2025.02.08-07.27.40:581][146]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2025.02.08-07.27.40:581][146]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2025.02.08-07.27.40:581][146]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2025.02.08-07.27.40:581][146]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2025.02.08-07.27.40:581][146]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2025.02.08-07.27.40:581][146]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2025.02.08-07.27.40:581][146]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2025.02.08-07.27.40:581][146]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2025.02.08-07.27.40:614][146]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2025.02.08-07.27.40:614][146]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2025.02.08-07.27.40:615][146]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2025.02.08-07.27.40:615][146]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2025.02.08-07.27.40:615][146]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2025.02.08-07.27.40:615][146]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2025.02.08-07.27.40:615][146]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2025.02.08-07.27.40:616][146]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2025.02.08-07.27.40:616][146]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2025.02.08-07.27.40:616][146]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2025.02.08-07.27.40:616][146]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2025.02.08-07.27.40:620][146]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2025.02.08-07.27.40:620][146]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2025.02.08-07.27.40:620][146]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2025.02.08-07.27.40:620][146]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2025.02.08-07.27.40:620][146]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2025.02.08-07.27.40:620][146]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2025.02.08-07.27.40:620][146]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2025.02.08-07.27.40:620][146]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2025.02.08-07.27.40:620][146]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2025.02.08-07.27.40:620][146]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2025.02.08-07.27.40:620][146]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2025.02.08-07.27.40:620][146]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2025.02.08-07.27.40:621][146]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2025.02.08-07.27.40:621][146]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2025.02.08-07.27.40:621][146]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2025.02.08-07.27.40:621][146]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2025.02.08-07.27.40:621][146]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2025.02.08-07.27.40:621][146]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2025.02.08-07.27.40:621][146]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2025.02.08-07.27.40:621][146]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2025.02.08-07.27.40:621][146]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2025.02.08-07.27.40:621][146]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2025.02.08-07.27.40:621][146]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2025.02.08-07.27.40:621][146]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2025.02.08-07.27.40:621][146]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2025.02.08-07.27.40:621][146]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2025.02.08-07.27.40:622][146]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2025.02.08-07.27.40:722][146]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2025.02.08-07.27.40:723][146]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2025.02.08-07.27.40:824][146]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2025.02.08-07.27.40:924][146]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2025.02.08-07.27.40:924][146]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2025.02.08-07.27.40:924][146]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2025.02.08-07.27.40:924][146]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2025.02.08-07.27.40:924][146]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2025.02.08-07.27.40:924][146]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.02.08-07.27.40:924][146]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2025.02.08-07.27.40:924][146]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2025.02.08-07.27.40:924][146]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2025.02.08-07.27.40:924][146]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2025.02.08-07.27.40:924][146]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2025.02.08-07.27.40:924][146]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2025.02.08-07.27.40:924][146]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2025.02.08-07.27.40:924][146]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2025.02.08-07.27.40:925][146]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2025.02.08-07.27.40:925][146]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2025.02.08-07.27.40:925][146]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2025.02.08-07.27.40:925][146]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2025.02.08-07.27.40:925][146]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2025.02.08-07.27.40:926][146]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2025.02.08-07.27.40:926][146]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2025.02.08-07.27.40:926][146]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2025.02.08-07.27.40:926][146]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2025.02.08-07.27.40:926][146]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2025.02.08-07.27.40:927][146]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2025.02.08-07.27.40:927][146]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2025.02.08-07.27.40:927][146]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2025.02.08-07.27.40:927][146]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2025.02.08-07.27.40:927][146]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2025.02.08-07.27.40:928][146]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2025.02.08-07.27.40:928][146]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2025.02.08-07.27.40:928][146]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2025.02.08-07.27.40:928][146]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2025.02.08-07.27.40:928][146]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2025.02.08-07.27.40:928][146]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2025.02.08-07.27.40:928][146]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2025.02.08-07.27.40:928][146]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2025.02.08-07.27.40:928][146]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2025.02.08-07.27.40:928][146]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2025.02.08-07.27.40:928][146]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2025.02.08-07.27.40:928][146]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2025.02.08-07.27.40:928][146]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2025.02.08-07.27.40:928][146]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2025.02.08-07.27.40:928][146]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2025.02.08-07.27.40:929][146]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2025.02.08-07.27.40:929][146]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2025.02.08-07.27.40:929][146]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2025.02.08-07.27.40:930][146]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2025.02.08-07.27.40:930][146]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2025.02.08-07.27.40:930][146]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2025.02.08-07.27.40:930][146]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2025.02.08-07.27.40:930][146]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2025.02.08-07.27.40:930][146]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2025.02.08-07.27.40:930][146]LogModuleManager: Shutting down and abandoning module Core (186)
+[2025.02.08-07.27.40:930][146]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2025.02.08-07.27.40:930][146]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2025.02.08-07.27.40:930][146]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2025.02.08-07.27.40:930][146]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2025.02.08-07.27.40:930][146]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2025.02.08-07.27.40:930][146]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2025.02.08-07.27.40:930][146]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2025.02.08-07.27.40:930][146]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2025.02.08-07.27.40:931][146]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2025.02.08-07.27.40:931][146]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2025.02.08-07.27.40:931][146]LogDerivedDataCache: Shutdown
+[2025.02.08-07.27.40:931][146]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2025.02.08-07.27.40:931][146]LogXGEController: Cleaning working directory: C:/Users/capti/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.02.08-07.27.40:931][146]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2025.02.08-07.27.40:931][146]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2025.02.08-07.27.40:931][146]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2025.02.08-07.27.40:931][146]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2025.02.08-07.27.40:931][146]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2025.02.08-07.27.40:931][146]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2025.02.08-07.27.40:931][146]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2025.02.08-07.27.40:931][146]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2025.02.08-07.27.40:931][146]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2025.02.08-07.27.40:931][146]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2025.02.08-07.27.40:931][146]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2025.02.08-07.27.40:931][146]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2025.02.08-07.27.40:931][146]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2025.02.08-07.27.40:931][146]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2025.02.08-07.27.40:931][146]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2025.02.08-07.27.40:931][146]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2025.02.08-07.27.40:931][146]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2025.02.08-07.27.40:932][146]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2025.02.08-07.27.40:932][146]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2025.02.08-07.27.40:932][146]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2025.02.08-07.27.40:932][146]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2025.02.08-07.27.40:932][146]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2025.02.08-07.27.40:932][146]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2025.02.08-07.27.40:932][146]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2025.02.08-07.27.40:933][146]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2025.02.08-07.27.40:933][146]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2025.02.08-07.27.40:938][146]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2025.02.08-07.27.40:938][146]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2025.02.08-07.27.40:938][146]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2025.02.08-07.27.40:938][146]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2025.02.08-07.27.40:938][146]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2025.02.08-07.27.40:938][146]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2025.02.08-07.27.40:938][146]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2025.02.08-07.27.40:938][146]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2025.02.08-07.27.40:938][146]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2025.02.08-07.27.40:938][146]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2025.02.08-07.27.40:938][146]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2025.02.08-07.27.40:938][146]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2025.02.08-07.27.40:938][146]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2025.02.08-07.27.40:938][146]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2025.02.08-07.27.40:938][146]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2025.02.08-07.27.40:938][146]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2025.02.08-07.27.40:938][146]LogHMD: Freeing OpenVRDLLHandle.
+[2025.02.08-07.27.40:938][146]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2025.02.08-07.27.40:938][146]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2025.02.08-07.27.40:938][146]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2025.02.08-07.27.40:938][146]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2025.02.08-07.27.40:938][146]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2025.02.08-07.27.40:939][146]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2025.02.08-07.27.40:939][146]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2025.02.08-07.27.40:950][146]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2025.02.08-07.27.40:950][146]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2025.02.08-07.27.40:950][146]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B814D7FC9-48A3-63E6-D4A3-6A93EFC85B7B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=8727217a4a108934d2bbdd82c37376c1%7Ca4aa4dc9af3d468cac8a9756b547ffb0%7C8f431d39-272b-4ef8-be6d-f6be4e6292ba&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2025.02.08-07.27.40:980][146]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2025.02.08-07.27.40:981][146]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2025.02.08-07.27.40:982][146]LogModuleManager: Shutting down and abandoning module Media (51)
+[2025.02.08-07.27.40:983][146]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2025.02.08-07.27.40:983][146]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2025.02.08-07.27.40:983][146]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2025.02.08-07.27.40:983][146]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2025.02.08-07.27.40:983][146]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2025.02.08-07.27.40:983][146]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2025.02.08-07.27.40:983][146]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2025.02.08-07.27.40:983][146]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2025.02.08-07.27.40:983][146]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2025.02.08-07.27.40:983][146]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2025.02.08-07.27.40:983][146]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2025.02.08-07.27.40:983][146]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2025.02.08-07.27.40:984][146]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2025.02.08-07.27.40:984][146]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2025.02.08-07.27.40:984][146]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2025.02.08-07.27.40:984][146]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2025.02.08-07.27.40:984][146]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2025.02.08-07.27.40:984][146]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2025.02.08-07.27.40:984][146]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2025.02.08-07.27.40:984][146]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2025.02.08-07.27.40:984][146]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2025.02.08-07.27.40:984][146]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2025.02.08-07.27.40:984][146]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2025.02.08-07.27.40:984][146]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2025.02.08-07.27.40:985][146]LogD3D11RHI: Shutdown
+[2025.02.08-07.27.40:985][146]LogD3D11RHI: CleanupD3DDevice
+[2025.02.08-07.27.40:985][146]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2025.02.08-07.27.40:985][146]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2025.02.08-07.27.40:985][146]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2025.02.08-07.27.41:042][146]LogD3D11RHI: ~FD3D11DynamicRHI
+[2025.02.08-07.27.41:049][146]LogExit: Exiting.
+[2025.02.08-07.27.41:057][146]Log file closed, 02/07/25 23:27:41

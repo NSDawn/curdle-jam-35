@@ -1,0 +1,51 @@
+{
+	"manifestChunkId": -1,
+	"pluginName": "NativizedAssets",
+	"outputDir": "C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Intermediate/Plugins/NativizedAssets/HTML5/Game",
+	"moduleDependencies": [
+		"Package'/Script/CoreUObject'",
+		"Package'/Script/Engine'",
+		"Package'/Script/InputCore'",
+		"Package'/Script/SlateCore'",
+		"Package'/Script/AIModule'",
+		"Package'/Script/NavigationSystem'",
+		"Package'/Script/GameplayTasks'",
+		"Package'/Script/GameplayTags'",
+		"Package'/Script/ClothingSystemRuntimeInterface'",
+		"Package'/Script/AudioPlatformConfiguration'",
+		"Package'/Script/UMG'",
+		"Package'/Script/PropertyPath'",
+		"Package'/Script/MovieScene'",
+		"Package'/Script/Slate'"
+	],
+	"convertedAssets":
+	{
+		"/Game/Blueprints/RightPaddle.RightPaddle_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/RightPaddle.RightPaddle_C",
+			"generatedHeaderPath": "C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Intermediate/Plugins/NativizedAssets/HTML5/Game/Source/NativizedAssets/Public/RightPaddle__pf2132744816.h",
+			"generatedCppPath": "C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Intermediate/Plugins/NativizedAssets/HTML5/Game/Source/NativizedAssets/Private/RightPaddle__pf2132744816.cpp"
+		},
+		"/Game/Blueprints/LeftPaddle.LeftPaddle_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/LeftPaddle.LeftPaddle_C",
+			"generatedHeaderPath": "C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Intermediate/Plugins/NativizedAssets/HTML5/Game/Source/NativizedAssets/Public/LeftPaddle__pf2132744816.h",
+			"generatedCppPath": "C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Intermediate/Plugins/NativizedAssets/HTML5/Game/Source/NativizedAssets/Private/LeftPaddle__pf2132744816.cpp"
+		}
+	},
+	"unconvertedDependencies":
+	{
+	},
+	"nativizationOptions":
+	{
+		"platformName": "HTML5",
+		"serverOnlyPlatform": false,
+		"clientOnlyPlatform": false,
+		"bExcludeMonolithicHeaders": false,
+		"excludedModules": [],
+		"excludedAssets": [],
+		"excludedFolderPaths": []
+	}
+}
