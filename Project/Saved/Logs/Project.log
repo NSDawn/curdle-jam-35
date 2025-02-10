@@ -1415,3 +1415,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2025.02.10-03.32.30:319][913]LogSavePackage: Moving '../../../../game/curdle-jam-35/Project/Saved/Leo_test54D0C678415F97E1C7D8B5B71BAF248C.tmp' to '../../../../game/curdle-jam-35/Project/Content/Leotest/Leo_test.umap'
 [2025.02.10-03.33.05:949][ 62]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={6EE1D394-4273-0695-EDDA-8194DF4E9342}
 [2025.02.10-03.35.21:692][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.10-03.35.58:415][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.10-03.35.59:138][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Leotest/Leo_test" FILE="../../../../game/curdle-jam-35/Project/Content/Leotest/Leo_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.10-03.35.59:161][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.02.10-03.35.59:230][612]LogSavePackage: Moving '../../../../game/curdle-jam-35/Project/Saved/Leo_test34EA60134A9DD6417401339CA9065651.tmp' to '../../../../game/curdle-jam-35/Project/Content/Leotest/Leo_test.umap'
+[2025.02.10-03.36.00:688][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.10-03.36.01:124][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Leotest/ball" FILE="../../../../game/curdle-jam-35/Project/Content/Leotest/ball.uasset" SILENT=true
+[2025.02.10-03.36.01:133][749]LogSavePackage: Moving '../../../../game/curdle-jam-35/Project/Saved/ballEB63A63D4749E834D2DA33B9DAB5F78D.tmp' to '../../../../game/curdle-jam-35/Project/Content/Leotest/ball.uasset'
