@@ -19,7 +19,7 @@ one programmer one designer one artist
 speed run game where you try to cover as much territory 
 splatoon but instead of shooting you just run 
 platformer/ speed running game 
-could be like sonic where it's linear or it could have much more freedom and you have to figure out the optimum way to cover the ground.
+could be like sonic where it's linear or it could have much more freedom and you have to I7ŪÌ9figure out the optimum way to cover the ground.
 ## 3.5
 one person does graffiti and one person cleans it up
 - ex: 2 minute intervals
