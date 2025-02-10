@@ -1,39 +1,6 @@
 {
 	"Contents": [
 		{
-			"File": "../../../Project/Intermediate/Plugins/NativizedAssets/HTML5/Game/NativizedAssets.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 0,
-				"VersionName": "",
-				"FriendlyName": "NativizedAssets",
-				"Description": "A programatically generated plugin which contains source files produced from Blueprint assets. The aim of this is to help performance by eliminating script overhead for the converted assets (using the source files in place of thier coresponding assets).",
-				"Category": "Intermediate",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "@TODO",
-				"MarketplaceURL": "",
-				"SupportURL": "https://answers.unrealengine.com/",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"Modules": [
-					{
-						"Name": "NativizedAssets",
-						"Type": "CookedOnly",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"HTML5"
-						],
-						"WhitelistTargets": [
-							"Game",
-							"Client"
-						]
-					}
-				]
-			}
-		},
-		{
 			"File": "../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin",
 			"Descriptor": 
 			{
@@ -753,6 +720,43 @@
 							"Win32",
 							"Linux"
 						]
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Netcode Unit Test - Unreal Engine 4",
+				"Description": "Exploit unit tests for UE4 and some base UE4 games, based on the Netcode Unit Test framework",
+				"Category": "Networking",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "NUTUnrealEngine4",
+						"Type": "Developer",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Win32",
+							"Linux"
+						]
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "NetcodeUnitTest",
+						"Enabled": true
 					}
 				]
 			}
