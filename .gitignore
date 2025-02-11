@@ -5,3 +5,5 @@ Project/[Bb]inaries/*
 
 *.bin
 *.log
+Project/Saved/Logs/Project.log
+Project/Saved/Config/Windows/EditorPerProjectUserSettings.ini

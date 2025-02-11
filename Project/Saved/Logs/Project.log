@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Log file open, 02/10/25 18:26:12
+=======
+﻿Log file open, 02/09/25 21:46:03
+>>>>>>> main
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -8,8 +12,13 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
 LogInit: Display: Running engine for game: Project
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.093000
+=======
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.061442
+>>>>>>> main
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -117,17 +126,18 @@ LogInit:  - LocalHostAddr = Default
 LogInit:  - BufferSize = 65536
 LogOnline: OSS: Creating online subsystem instance for: NULL
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.37.0
 LogInit: Build: ++UE4+Release-4.23-CL-9631420
 LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
 LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
 LogInit: Net CL: 8386587
-LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 7600X 6-Core Processor             , GPU: NVIDIA GeForce RTX 3070
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 3070
 LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
 LogInit: Compiled with Visual C++: 19.16.27030.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.23
-LogInit: Command Line: 
-LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Command Line:  -AUTH_LOGIN=unused -AUTH_PASSWORD=27aeec8c42a545a4894d7babcfdbcf45 -AUTH_TYPE=exchangecode -epicapp=UE_4.23 -epicenv=Prod -EpicPortal -epicusername=GOnYourLeft -epicuserid=e68d6ba843d44d79adb2cba5abc59ac4 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: D:/UE_4.23/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 23
 LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
@@ -157,6 +167,7 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 [2025.02.11-02.26.13:416][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2025.02.11-02.26.13:416][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2025.02.11-02.26.13:416][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/capti/Desktop/Unreal Games/CurdleJam35-Repo/Project/Saved/Config/Windows/Engine.ini]
@@ -1755,3 +1766,1706 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2025.02.11-06.02.27:341][942]LogD3D11RHI: ~FD3D11DynamicRHI
 [2025.02.11-06.02.27:349][942]LogExit: Exiting.
 [2025.02.11-06.02.27:363][942]Log file closed, 02/10/25 22:02:27
+=======
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/game/curdle-jam-35/Project/Saved/Config/Windows/Engine.ini]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2025.02.10-05.46.04:688][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/game/curdle-jam-35/Project/Saved/Config/Windows/Engine.ini]
+[2025.02.10-05.46.04:689][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/game/curdle-jam-35/Project/Saved/Config/Windows/Engine.ini]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/game/curdle-jam-35/Project/Saved/Config/Windows/Engine.ini]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2025.02.10-05.46.04:689][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/game/curdle-jam-35/Project/Saved/Config/Windows/Engine.ini]
+[2025.02.10-05.46.04:689][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/game/curdle-jam-35/Project/Saved/Config/Windows/Engine.ini]
+[2025.02.10-05.46.04:693][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/game/curdle-jam-35/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/game/curdle-jam-35/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/game/curdle-jam-35/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/game/curdle-jam-35/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2025.02.10-05.46.04:693][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/game/curdle-jam-35/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/game/curdle-jam-35/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/game/curdle-jam-35/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2025.02.10-05.46.04:694][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2025.02.10-05.46.04:694][  0]LogInit: Selected Device Profile: [Windows]
+[2025.02.10-05.46.04:694][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2025.02.10-05.46.04:696][  0]LogHAL: Display: Platform has ~ 32 GB [34191642624 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2025.02.10-05.46.04:696][  0]LogInit: Going up to parent DeviceProfile []
+[2025.02.10-05.46.04:696][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/game/curdle-jam-35/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.10-05.46.04:696][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2025.02.10-05.46.04:696][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2025.02.10-05.46.04:696][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/game/curdle-jam-35/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.10-05.46.04:696][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2025.02.10-05.46.04:696][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/game/curdle-jam-35/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.10-05.46.04:696][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2025.02.10-05.46.04:696][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2025.02.10-05.46.04:696][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.02.10-05.46.04:696][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2025.02.10-05.46.04:696][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.02.10-05.46.04:696][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.02.10-05.46.04:696][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.02.10-05.46.04:696][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.02.10-05.46.04:696][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.02.10-05.46.04:696][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2025.02.10-05.46.04:696][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2025.02.10-05.46.04:696][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2025.02.10-05.46.04:696][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2025.02.10-05.46.04:696][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/game/curdle-jam-35/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/game/curdle-jam-35/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/game/curdle-jam-35/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/game/curdle-jam-35/Project/Saved/Config/Windows/Scalability.ini]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2025.02.10-05.46.04:697][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/game/curdle-jam-35/Project/Saved/Config/Windows/Engine.ini]
+[2025.02.10-05.46.04:697][  0]LogInit: Computer: DESKTOP-93ETP0A
+[2025.02.10-05.46.04:697][  0]LogInit: User: Leo
+[2025.02.10-05.46.04:697][  0]LogInit: CPU Page size=4096, Cores=8
+[2025.02.10-05.46.04:697][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.02.10-05.46.04:697][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2025.02.10-05.46.04:697][  0]LogMemory: Platform Memory Stats for Windows
+[2025.02.10-05.46.04:697][  0]LogMemory: Process Physical Memory: 111.06 MB used, 115.36 MB peak
+[2025.02.10-05.46.04:697][  0]LogMemory: Process Virtual Memory: 94.03 MB used, 94.03 MB peak
+[2025.02.10-05.46.04:697][  0]LogMemory: Physical Memory: 15914.92 MB used,  16692.77 MB free, 32607.69 MB total
+[2025.02.10-05.46.04:697][  0]LogMemory: Virtual Memory: 4689.71 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2025.02.10-05.46.04:700][  0]LogWindows: WindowsPlatformFeatures enabled
+[2025.02.10-05.46.04:732][  0]LogInit: Using OS detected language (en-US).
+[2025.02.10-05.46.04:732][  0]LogInit: Using OS detected locale (en-US).
+[2025.02.10-05.46.04:732][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2025.02.10-05.46.04:879][  0]LogInit: Setting process to per monitor DPI aware
+[2025.02.10-05.46.04:910][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2025.02.10-05.46.04:910][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2025.02.10-05.46.05:107][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2025.02.10-05.46.05:107][  0]LogD3D11RHI: D3D11 adapters:
+[2025.02.10-05.46.05:262][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070' (Feature Level 11_0)
+[2025.02.10-05.46.05:262][  0]LogD3D11RHI:       8018/0/16303 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2025.02.10-05.46.05:289][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2025.02.10-05.46.05:289][  0]LogD3D11RHI:       128/0/16303 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2025.02.10-05.46.05:402][  0]LogD3D11RHI:    2. 'NVIDIA GeForce RTX 3070' (Feature Level 11_0)
+[2025.02.10-05.46.05:402][  0]LogD3D11RHI:       8018/0/16303 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2025.02.10-05.46.05:404][  0]LogD3D11RHI:    3. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2025.02.10-05.46.05:404][  0]LogD3D11RHI:       0/0/16303 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2025.02.10-05.46.05:404][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2025.02.10-05.46.05:427][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2025.02.10-05.46.05:427][  0]LogD3D11RHI:     GPU DeviceId: 0x2484 (for the marketing name, search the web for "GPU Device Id")
+[2025.02.10-05.46.05:427][  0]LogWindows: EnumDisplayDevices:
+[2025.02.10-05.46.05:427][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070' (P:1 D:1)
+[2025.02.10-05.46.05:428][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070' (P:0 D:1)
+[2025.02.10-05.46.05:428][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2025.02.10-05.46.05:428][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2025.02.10-05.46.05:428][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2025.02.10-05.46.05:428][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2025.02.10-05.46.05:429][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2025.02.10-05.46.05:429][  0]LogWindows:    7. 'Meta Virtual Monitor' (P:0 D:0)
+[2025.02.10-05.46.05:429][  0]LogWindows:    8. 'Meta Virtual Monitor' (P:0 D:0)
+[2025.02.10-05.46.05:429][  0]LogWindows:    9. 'Meta Virtual Monitor' (P:0 D:0)
+[2025.02.10-05.46.05:430][  0]LogWindows:    10. 'Meta Virtual Monitor' (P:0 D:0)
+[2025.02.10-05.46.05:430][  0]LogWindows:    11. 'Meta Virtual Monitor' (P:0 D:0)
+[2025.02.10-05.46.05:430][  0]LogWindows:    12. 'Meta Virtual Monitor' (P:0 D:0)
+[2025.02.10-05.46.05:430][  0]LogWindows:    13. 'Meta Virtual Monitor' (P:0 D:0)
+[2025.02.10-05.46.05:430][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2025.02.10-05.46.05:430][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070
+[2025.02.10-05.46.05:430][  0]LogD3D11RHI:   Driver Version: 566.36 (internal:32.0.15.6636, unified:566.36)
+[2025.02.10-05.46.05:430][  0]LogD3D11RHI:      Driver Date: 12-3-2024
+[2025.02.10-05.46.05:430][  0]LogRHI: Texture pool is 5612 MB (70% of 8018 MB)
+[2025.02.10-05.46.05:545][  0]LogD3D11RHI: Async texture creation enabled
+[2025.02.10-05.46.05:561][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2025.02.10-05.46.05:563][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061082).
+[2025.02.10-05.46.05:803][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2025.02.10-05.46.05:809][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2025.02.10-05.46.05:815][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2025.02.10-05.46.05:822][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2025.02.10-05.46.05:829][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2025.02.10-05.46.05:834][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2025.02.10-05.46.05:841][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2025.02.10-05.46.05:847][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2025.02.10-05.46.05:850][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2025.02.10-05.46.05:875][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2025.02.10-05.46.05:875][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2025.02.10-05.46.05:875][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2025.02.10-05.46.05:875][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2025.02.10-05.46.05:875][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2025.02.10-05.46.05:875][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2025.02.10-05.46.05:875][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2025.02.10-05.46.05:875][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2025.02.10-05.46.05:875][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2025.02.10-05.46.05:875][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2025.02.10-05.46.05:875][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2025.02.10-05.46.05:875][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2025.02.10-05.46.05:875][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2025.02.10-05.46.05:875][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2025.02.10-05.46.05:875][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2025.02.10-05.46.05:875][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2025.02.10-05.46.05:875][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2025.02.10-05.46.05:875][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2025.02.10-05.46.05:876][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2025.02.10-05.46.05:889][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2025.02.10-05.46.05:889][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2025.02.10-05.46.05:900][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2025.02.10-05.46.05:900][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2025.02.10-05.46.05:905][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2025.02.10-05.46.05:911][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2025.02.10-05.46.05:916][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2025.02.10-05.46.05:922][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2025.02.10-05.46.05:941][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2025.02.10-05.46.05:941][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2025.02.10-05.46.05:941][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2025.02.10-05.46.05:947][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2025.02.10-05.46.05:978][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (../../../../game/curdle-jam-35/Project/Intermediate/Shaders/WorkingDirectory/51204/).
+[2025.02.10-05.46.05:978][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Leo/AppData/Local/Temp/UnrealShaderWorkingDir/BA236F104D1DC2E2A224DEA08EE52DEF/'.
+[2025.02.10-05.46.05:979][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2025.02.10-05.46.05:980][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2025.02.10-05.46.05:980][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2025.02.10-05.46.06:469][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2025.02.10-05.46.06:509][  0]LogDerivedDataCache: Loaded boot cache 0.04s 76MB C:/Users/Leo/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2025.02.10-05.46.06:509][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Leo/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2025.02.10-05.46.06:509][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../game/curdle-jam-35/Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2025.02.10-05.46.06:509][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2025.02.10-05.46.06:509][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../game/curdle-jam-35/Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.02.10-05.46.06:509][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2025.02.10-05.46.06:517][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2025.02.10-05.46.06:517][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.02.10-05.46.06:517][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2025.02.10-05.46.06:519][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Leo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2025.02.10-05.46.06:519][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2025.02.10-05.46.06:519][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2025.02.10-05.46.06:534][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2025.02.10-05.46.06:536][  0]LogSlate: Using FreeType 2.6.0
+[2025.02.10-05.46.06:536][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2025.02.10-05.46.06:577][  0]LogAssetRegistry: FAssetRegistry took 0.0018 seconds to start up
+[2025.02.10-05.46.06:774][  0]LogInit: Selected Device Profile: [Windows]
+[2025.02.10-05.46.06:883][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2025.02.10-05.46.06:883][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2025.02.10-05.46.06:883][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2025.02.10-05.46.06:883][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2025.02.10-05.46.06:883][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2025.02.10-05.46.06:889][  0]LogNetVersion: Project 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 453484507)
+[2025.02.10-05.46.07:183][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.027794 seconds
+[2025.02.10-05.46.07:189][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2025.02.10-05.46.07:189][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2025.02.10-05.46.07:189][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.02.10-05.46.07:813][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2025.02.10-05.46.07:815][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2025.02.10-05.46.07:854][  0]SourceControl: Source control is disabled
+[2025.02.10-05.46.07:854][  0]SourceControl: Source control is disabled
+[2025.02.10-05.46.07:855][  0]SourceControl: Source control is disabled
+[2025.02.10-05.46.07:856][  0]SourceControl: Source control is disabled
+[2025.02.10-05.46.07:862][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.02.10-05.46.07:863][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.02.10-05.46.07:923][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.02.10-05.46.08:170][  0]LogOcInput: OculusInput pre-init called
+[2025.02.10-05.46.08:655][  0]LogEngine: Initializing Engine...
+[2025.02.10-05.46.08:738][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2025.02.10-05.46.08:738][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2025.02.10-05.46.08:911][  0]LogInit: Initializing FReadOnlyCVARCache
+[2025.02.10-05.46.08:920][  0]LogAIModule: Creating AISystem for world Untitled
+[2025.02.10-05.46.08:983][  0]LogInit: XAudio2 using 'H32S17 (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2025.02.10-05.46.09:031][  0]LogInit: FAudioDevice initialized.
+[2025.02.10-05.46.09:031][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2025.02.10-05.46.09:097][  0]LogDerivedDataCache: Saved boot cache 0.07s 76MB C:/Users/Leo/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2025.02.10-05.46.09:099][  0]LogInit: Texture streaming: Enabled
+[2025.02.10-05.46.09:110][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2025.02.10-05.46.09:110][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2025.02.10-05.46.09:111][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2025.02.10-05.46.09:142][  0]LogInit: Transaction tracking system initialized
+[2025.02.10-05.46.09:158][  0]BlueprintLog: New page: Editor Load
+[2025.02.10-05.46.09:199][  0]LocalizationService: Localization service is disabled
+[2025.02.10-05.46.09:244][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.02.10-05.46.09:244][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.02.10-05.46.09:361][  0]LogFileCache: Scanning file cache for directory 'D:/game/curdle-jam-35/Project/Content/' took 0.00s
+[2025.02.10-05.46.09:361][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2025.02.10-05.46.09:361][  0]LogCook: Display: Mobile HDR setting 1
+[2025.02.10-05.46.09:484][  0]SourceControl: Source control is disabled
+[2025.02.10-05.46.09:484][  0]Cmd: MAP LOAD FILE="../../../../game/curdle-jam-35/Project/Content/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.02.10-05.46.09:484][  0]LightingResults: New page: Lighting Build
+[2025.02.10-05.46.09:486][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.02.10-05.46.09:486][  0]MapCheck: New page: Map Check
+[2025.02.10-05.46.09:486][  0]LightingResults: New page: Lighting Build
+[2025.02.10-05.46.09:508][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.02.10-05.46.09:594][  0]LogAIModule: Creating AISystem for world NewMap
+[2025.02.10-05.46.09:600][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.02.10-05.46.09:626][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.02.10-05.46.09:626][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.02.10-05.46.09:626][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2025.02.10-05.46.09:626][  0]LogFileHelpers: Loading map 'NewMap' took 0.143
+[2025.02.10-05.46.09:712][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.10-05.46.09:717][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.10-05.46.09:723][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.10-05.46.09:730][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.10-05.46.09:733][  0]LogCollectionManager: Loaded 0 collections in 0.000670 seconds
+[2025.02.10-05.46.09:737][  0]LogFileCache: Scanning file cache for directory 'D:/game/curdle-jam-35/Project/Saved/Collections/' took 0.00s
+[2025.02.10-05.46.09:737][  0]LogFileCache: Scanning file cache for directory 'D:/game/curdle-jam-35/Project/Content/Developers/Leo/Collections/' took 0.00s
+[2025.02.10-05.46.09:737][  0]LogFileCache: Scanning file cache for directory 'D:/game/curdle-jam-35/Project/Content/Collections/' took 0.00s
+[2025.02.10-05.46.09:737][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2025.02.10-05.46.09:743][  0]LogContentBrowser: Native class hierarchy populated in 0.0060 seconds. Added 2863 classes and 680 folders.
+[2025.02.10-05.46.09:747][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2025.02.10-05.46.09:775][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2025.02.10-05.46.09:778][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2025.02.10-05.46.09:791][  0]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.02.10-05.46.09:793][  0]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.02.10-05.46.09:796][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.02.10-05.46.09:839][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2025.02.10-05.46.09:926][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2025.02.10-05.46.09:926][  0]LogLoad: (Engine Initialization) Total time: 6.60 seconds
+[2025.02.10-05.46.09:926][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2025.02.10-05.46.09:961][  0]LogAssetRegistry: Asset discovery search completed in 3.3857 seconds
+[2025.02.10-05.46.09:964][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2025.02.10-05.46.09:964][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2025.02.10-05.46.09:965][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2025.02.10-05.46.19:703][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.10-05.46.53:102][ 69]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.02.10-05.46.53:111][ 69]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\game\curdle-jam-35\assests\arrows.png)
+[2025.02.10-05.46.53:113][ 69]LogTexture: Display: Building textures: arrows (BGRA8, 337X188)
+[2025.02.10-05.47.00:569][783]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Leotest/arrows.arrows
+[2025.02.10-05.47.00:608][783]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2025.02.10-05.47.06:304][391]LogSlate: Window 'arrows' being destroyed
+[2025.02.10-05.47.06:310][391]LogSlate: Window 'arrows' being destroyed
+[2025.02.10-05.47.10:089][490]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={3B17918D-4654-EE7C-B039-8E85BF551B6E}
+[2025.02.10-05.47.23:189][586]LogAssetEditorManager: Opening Asset editor for Material /Game/Leotest/ArrowAnimation.ArrowAnimation
+[2025.02.10-05.47.23:191][586]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.47.23:439][586]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.47.23:457][586]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.47.23:476][586]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2025.02.10-05.47.23:476][586]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2025.02.10-05.47.23:476][586]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2025.02.10-05.47.23:476][586]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2025.02.10-05.47.23:481][586]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2025.02.10-05.47.23:488][586]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2025.02.10-05.47.23:494][586]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2025.02.10-05.47.23:526][586]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.02.10-05.47.23:605][587]LogSlate: Took 0.007703 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.02.10-05.47.23:713][592]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 47
+[2025.02.10-05.47.23:761][594]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2025.02.10-05.47.23:769][594]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 45
+[2025.02.10-05.47.24:031][618]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 44
+[2025.02.10-05.47.24:052][620]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 43
+[2025.02.10-05.47.24:053][620]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 42
+[2025.02.10-05.47.24:219][637]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 41
+[2025.02.10-05.47.24:303][646]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2025.02.10-05.47.24:394][656]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2025.02.10-05.47.24:444][661]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2025.02.10-05.47.24:444][661]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2025.02.10-05.47.24:645][680]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2025.02.10-05.47.25:138][732]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2025.02.10-05.47.25:208][739]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2025.02.10-05.47.25:389][759]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2025.02.10-05.47.25:562][777]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2025.02.10-05.47.25:729][795]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2025.02.10-05.47.25:834][807]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2025.02.10-05.47.25:939][819]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2025.02.10-05.47.26:103][837]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2025.02.10-05.47.26:130][840]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2025.02.10-05.47.26:227][851]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2025.02.10-05.47.26:639][888]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2025.02.10-05.47.26:711][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2025.02.10-05.47.26:788][905]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2025.02.10-05.47.26:904][918]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2025.02.10-05.47.27:062][935]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2025.02.10-05.47.27:242][956]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2025.02.10-05.47.27:308][964]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2025.02.10-05.47.27:369][971]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2025.02.10-05.47.27:578][995]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2025.02.10-05.47.27:706][ 10]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2025.02.10-05.47.27:730][ 13]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2025.02.10-05.47.27:789][ 20]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2025.02.10-05.47.28:088][ 52]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2025.02.10-05.47.28:291][ 75]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2025.02.10-05.47.28:291][ 75]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2025.02.10-05.47.28:321][ 78]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2025.02.10-05.47.28:321][ 78]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2025.02.10-05.47.28:597][109]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2025.02.10-05.47.28:606][110]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2025.02.10-05.47.28:658][116]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2025.02.10-05.47.28:658][116]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2025.02.10-05.47.28:936][146]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2025.02.10-05.47.28:937][146]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2025.02.10-05.47.28:954][148]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2025.02.10-05.47.28:968][149]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2025.02.10-05.47.29:222][176]MaterialEditorStats: Base pass shader: 85 instructions
+[2025.02.10-05.47.29:222][176]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2025.02.10-05.47.29:222][176]MaterialEditorStats: Base pass vertex shader: 141 instructions
+[2025.02.10-05.47.29:222][176]MaterialEditorStats: Texture samplers: 3/16
+[2025.02.10-05.47.29:222][176]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2025.02.10-05.47.29:222][176]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.02.10-05.47.32:308][487]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.47.32:326][487]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2025.02.10-05.47.32:334][487]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2025.02.10-05.47.32:334][487]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2025.02.10-05.47.32:334][487]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2025.02.10-05.47.32:334][487]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2025.02.10-05.47.32:340][487]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2025.02.10-05.47.32:347][487]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2025.02.10-05.47.32:353][487]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2025.02.10-05.47.32:360][487]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2025.02.10-05.47.32:503][499]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 51
+[2025.02.10-05.47.32:507][499]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 50
+[2025.02.10-05.47.32:589][507]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 49
+[2025.02.10-05.47.32:656][514]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 48
+[2025.02.10-05.47.32:738][522]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 47
+[2025.02.10-05.47.32:776][526]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2025.02.10-05.47.32:796][528]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 45
+[2025.02.10-05.47.32:886][537]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 44
+[2025.02.10-05.47.32:896][538]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 43
+[2025.02.10-05.47.32:934][542]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 42
+[2025.02.10-05.47.33:015][549]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2025.02.10-05.47.33:164][563]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 40
+[2025.02.10-05.47.33:398][586]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2025.02.10-05.47.33:425][589]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 38
+[2025.02.10-05.47.33:575][604]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2025.02.10-05.47.33:802][623]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2025.02.10-05.47.33:841][627]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2025.02.10-05.47.33:891][632]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2025.02.10-05.47.34:156][658]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2025.02.10-05.47.34:272][670]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2025.02.10-05.47.34:298][673]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2025.02.10-05.47.34:324][676]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2025.02.10-05.47.34:750][715]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2025.02.10-05.47.34:989][735]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2025.02.10-05.47.34:991][735]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2025.02.10-05.47.35:111][746]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2025.02.10-05.47.35:418][776]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2025.02.10-05.47.35:526][787]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2025.02.10-05.47.35:612][796]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2025.02.10-05.47.35:700][805]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2025.02.10-05.47.35:907][826]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2025.02.10-05.47.36:069][843]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2025.02.10-05.47.36:194][856]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2025.02.10-05.47.36:194][856]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2025.02.10-05.47.36:370][872]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2025.02.10-05.47.36:578][893]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2025.02.10-05.47.36:589][894]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2025.02.10-05.47.36:640][900]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2025.02.10-05.47.36:676][904]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2025.02.10-05.47.36:938][929]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2025.02.10-05.47.36:964][932]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2025.02.10-05.47.36:973][933]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2025.02.10-05.47.36:999][936]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2025.02.10-05.47.37:153][951]MaterialEditorStats: Base pass shader: 85 instructions
+[2025.02.10-05.47.37:153][951]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2025.02.10-05.47.37:153][951]MaterialEditorStats: Base pass vertex shader: 141 instructions
+[2025.02.10-05.47.37:153][951]MaterialEditorStats: Texture samplers: 3/16
+[2025.02.10-05.47.37:153][951]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2025.02.10-05.47.37:153][951]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.02.10-05.47.37:355][971]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2025.02.10-05.47.37:382][974]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2025.02.10-05.47.37:382][974]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2025.02.10-05.47.37:400][976]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2025.02.10-05.47.37:746][  9]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2025.02.10-05.47.37:809][ 14]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2025.02.10-05.47.37:859][ 20]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2025.02.10-05.47.37:883][ 22]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2025.02.10-05.47.39:430][138]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.47.39:450][138]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2025.02.10-05.47.39:450][138]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2025.02.10-05.47.39:450][138]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2025.02.10-05.47.39:450][138]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2025.02.10-05.47.39:453][138]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2025.02.10-05.47.39:641][153]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2025.02.10-05.47.39:641][153]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2025.02.10-05.47.39:661][155]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2025.02.10-05.47.39:765][166]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2025.02.10-05.47.39:825][172]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2025.02.10-05.47.39:928][183]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2025.02.10-05.47.39:928][183]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2025.02.10-05.47.39:997][189]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2025.02.10-05.47.40:103][200]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2025.02.10-05.47.40:211][211]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2025.02.10-05.47.40:312][222]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2025.02.10-05.47.40:377][229]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2025.02.10-05.47.40:613][253]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2025.02.10-05.47.40:766][265]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2025.02.10-05.47.40:784][267]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2025.02.10-05.47.41:017][291]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2025.02.10-05.47.41:054][293]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2025.02.10-05.47.41:187][304]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2025.02.10-05.47.41:332][316]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2025.02.10-05.47.41:401][321]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2025.02.10-05.47.41:429][323]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2025.02.10-05.47.41:586][338]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2025.02.10-05.47.41:732][346]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2025.02.10-05.47.41:772][348]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.47.41:893][356]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2025.02.10-05.47.42:045][370]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2025.02.10-05.47.42:101][375]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2025.02.10-05.47.42:290][394]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2025.02.10-05.47.42:563][413]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 39
+[2025.02.10-05.47.42:683][424]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2025.02.10-05.47.42:720][428]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2025.02.10-05.47.42:732][429]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2025.02.10-05.47.42:812][433]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2025.02.10-05.47.42:863][436]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2025.02.10-05.47.42:888][438]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2025.02.10-05.47.42:918][439]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2025.02.10-05.47.43:026][447]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2025.02.10-05.47.43:054][449]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2025.02.10-05.47.43:288][468]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2025.02.10-05.47.43:300][469]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2025.02.10-05.47.43:356][475]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2025.02.10-05.47.43:428][482]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2025.02.10-05.47.43:489][488]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2025.02.10-05.47.43:574][497]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2025.02.10-05.47.43:817][518]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2025.02.10-05.47.43:887][525]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2025.02.10-05.47.43:916][528]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2025.02.10-05.47.44:150][548]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2025.02.10-05.47.44:192][553]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2025.02.10-05.47.44:295][560]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2025.02.10-05.47.44:545][584]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2025.02.10-05.47.44:656][594]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2025.02.10-05.47.44:658][594]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2025.02.10-05.47.44:777][600]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2025.02.10-05.47.45:000][618]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2025.02.10-05.47.45:095][625]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2025.02.10-05.47.45:217][634]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2025.02.10-05.47.45:218][634]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2025.02.10-05.47.45:398][646]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2025.02.10-05.47.45:592][663]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2025.02.10-05.47.45:600][664]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2025.02.10-05.47.45:627][667]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2025.02.10-05.47.45:892][692]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.47.45:908][692]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2025.02.10-05.47.45:915][692]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2025.02.10-05.47.45:999][699]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 42
+[2025.02.10-05.47.46:046][704]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2025.02.10-05.47.46:061][705]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2025.02.10-05.47.46:076][706]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2025.02.10-05.47.46:234][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2025.02.10-05.47.46:244][722]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 37
+[2025.02.10-05.47.46:336][732]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2025.02.10-05.47.46:336][732]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2025.02.10-05.47.46:396][738]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2025.02.10-05.47.46:476][743]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2025.02.10-05.47.46:493][744]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2025.02.10-05.47.46:575][752]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2025.02.10-05.47.46:612][756]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2025.02.10-05.47.46:659][761]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2025.02.10-05.47.46:714][766]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2025.02.10-05.47.46:993][784]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2025.02.10-05.47.47:053][787]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2025.02.10-05.47.47:053][787]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2025.02.10-05.47.47:272][804]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2025.02.10-05.47.47:357][809]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2025.02.10-05.47.47:443][817]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2025.02.10-05.47.47:576][824]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2025.02.10-05.47.47:639][827]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2025.02.10-05.47.47:684][832]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2025.02.10-05.47.47:779][840]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2025.02.10-05.47.47:951][854]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2025.02.10-05.47.48:081][863]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2025.02.10-05.47.48:180][874]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2025.02.10-05.47.48:180][874]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2025.02.10-05.47.48:277][884]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.47.48:298][884]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2025.02.10-05.47.48:438][897]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 43
+[2025.02.10-05.47.48:615][913]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 42
+[2025.02.10-05.47.48:657][917]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2025.02.10-05.47.48:688][920]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2025.02.10-05.47.48:726][924]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2025.02.10-05.47.48:823][934]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2025.02.10-05.47.48:843][936]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 37
+[2025.02.10-05.47.48:911][943]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2025.02.10-05.47.48:978][950]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2025.02.10-05.47.48:988][951]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2025.02.10-05.47.49:091][962]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2025.02.10-05.47.49:129][966]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2025.02.10-05.47.49:163][970]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2025.02.10-05.47.49:238][978]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2025.02.10-05.47.49:238][978]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2025.02.10-05.47.49:357][990]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2025.02.10-05.47.49:682][ 22]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2025.02.10-05.47.49:800][ 35]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2025.02.10-05.47.49:819][ 37]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2025.02.10-05.47.50:117][ 67]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2025.02.10-05.47.50:239][ 80]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2025.02.10-05.47.50:397][ 96]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2025.02.10-05.47.50:611][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2025.02.10-05.47.50:684][126]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2025.02.10-05.47.50:802][131]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2025.02.10-05.47.50:945][146]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2025.02.10-05.47.51:137][166]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2025.02.10-05.47.51:317][185]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2025.02.10-05.47.51:465][201]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2025.02.10-05.47.51:529][208]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2025.02.10-05.47.51:661][222]LogMaterialEditor: Saving and Compiling material ArrowAnimation
+[2025.02.10-05.47.51:994][222]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2025.02.10-05.47.51:995][222]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2025.02.10-05.47.51:995][222]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2025.02.10-05.47.51:995][222]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2025.02.10-05.47.52:020][222]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.47.52:093][222]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.47.52:113][222]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.47.52:129][222]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 43
+[2025.02.10-05.47.52:153][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.02.10-05.47.52:161][222]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.02.10-05.47.54:931][222]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 84
+[2025.02.10-05.47.54:931][222]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 83
+[2025.02.10-05.47.54:931][222]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 82
+[2025.02.10-05.47.54:931][222]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 81
+[2025.02.10-05.47.54:931][222]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 80
+[2025.02.10-05.47.54:931][222]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 79
+[2025.02.10-05.47.54:931][222]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 78
+[2025.02.10-05.47.54:931][222]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 77
+[2025.02.10-05.47.54:931][222]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 76
+[2025.02.10-05.47.54:931][222]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 75
+[2025.02.10-05.47.54:931][222]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 74
+[2025.02.10-05.47.54:931][222]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 73
+[2025.02.10-05.47.54:931][222]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 72
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 71
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 70
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 69
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 68
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 67
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 66
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 65
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 64
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 63
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 62
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 61
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 60
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 59
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 58
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 57
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 56
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 55
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 54
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 53
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 52
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 51
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 50
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 49
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 47
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 45
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 43
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 40
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2025.02.10-05.47.54:932][222]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2025.02.10-05.47.54:934][222]TextureStreamingBuild: Display: Compiling optional shaders took 2.781 seconds.
+[2025.02.10-05.47.54:966][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.02.10-05.47.57:491][222]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2025.02.10-05.47.57:491][222]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2025.02.10-05.47.57:491][222]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2025.02.10-05.47.57:491][222]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2025.02.10-05.47.57:491][222]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2025.02.10-05.47.57:491][222]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2025.02.10-05.47.57:518][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Leotest/ArrowAnimation" FILE="../../../../game/curdle-jam-35/Project/Content/Leotest/ArrowAnimation.uasset" SILENT=true
+[2025.02.10-05.47.57:530][222]LogSavePackage: Moving '../../../../game/curdle-jam-35/Project/Saved/ArrowAnimation625914524420B34DB9E9CD9752FAB598.tmp' to '../../../../game/curdle-jam-35/Project/Content/Leotest/ArrowAnimation.uasset'
+[2025.02.10-05.47.57:546][222]MaterialEditorStats: Base pass shader: 85 instructions
+[2025.02.10-05.47.57:547][222]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2025.02.10-05.47.57:547][222]MaterialEditorStats: Base pass vertex shader: 141 instructions
+[2025.02.10-05.47.57:547][222]MaterialEditorStats: Texture samplers: 3/16
+[2025.02.10-05.47.57:547][222]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2025.02.10-05.47.57:547][222]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.02.10-05.48.01:273][235]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.48.01:297][236]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2025.02.10-05.48.01:297][236]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2025.02.10-05.48.01:297][236]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2025.02.10-05.48.01:297][236]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2025.02.10-05.48.01:398][240]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2025.02.10-05.48.01:403][240]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2025.02.10-05.48.01:408][240]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2025.02.10-05.48.01:479][242]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2025.02.10-05.48.01:499][242]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2025.02.10-05.48.01:598][249]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2025.02.10-05.48.01:619][251]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2025.02.10-05.48.01:623][251]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2025.02.10-05.48.01:654][254]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2025.02.10-05.48.01:716][259]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2025.02.10-05.48.01:859][273]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2025.02.10-05.48.01:890][276]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2025.02.10-05.48.02:198][307]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2025.02.10-05.48.02:272][315]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2025.02.10-05.48.02:297][317]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2025.02.10-05.48.02:716][356]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2025.02.10-05.48.02:735][358]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2025.02.10-05.48.02:804][365]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2025.02.10-05.48.03:089][393]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2025.02.10-05.48.03:153][400]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2025.02.10-05.48.03:172][402]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2025.02.10-05.48.03:290][414]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2025.02.10-05.48.03:575][442]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2025.02.10-05.48.03:695][454]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2025.02.10-05.48.03:841][469]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2025.02.10-05.48.03:894][474]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2025.02.10-05.48.04:123][496]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2025.02.10-05.48.04:442][527]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2025.02.10-05.48.04:442][527]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2025.02.10-05.48.04:471][530]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2025.02.10-05.48.04:888][571]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2025.02.10-05.48.04:987][581]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2025.02.10-05.48.04:987][581]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2025.02.10-05.48.05:046][587]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2025.02.10-05.48.05:370][620]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2025.02.10-05.48.10:613][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.10-05.48.15:077][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.10-05.48.19:527][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.10-05.48.24:208][776]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.48.24:249][777]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2025.02.10-05.48.24:249][777]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2025.02.10-05.48.24:249][777]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2025.02.10-05.48.24:249][777]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2025.02.10-05.48.24:397][793]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2025.02.10-05.48.24:407][794]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2025.02.10-05.48.24:417][795]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2025.02.10-05.48.24:532][807]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2025.02.10-05.48.24:551][809]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2025.02.10-05.48.24:673][822]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2025.02.10-05.48.24:682][823]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2025.02.10-05.48.24:704][825]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2025.02.10-05.48.24:775][832]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2025.02.10-05.48.24:817][836]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2025.02.10-05.48.24:905][845]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2025.02.10-05.48.24:928][847]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2025.02.10-05.48.25:212][874]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2025.02.10-05.48.25:263][880]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2025.02.10-05.48.25:280][882]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2025.02.10-05.48.25:605][910]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2025.02.10-05.48.25:647][914]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2025.02.10-05.48.25:731][923]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2025.02.10-05.48.25:993][948]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2025.02.10-05.48.26:103][960]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2025.02.10-05.48.26:103][960]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2025.02.10-05.48.26:226][973]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2025.02.10-05.48.26:465][992]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2025.02.10-05.48.26:541][996]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2025.02.10-05.48.26:631][  2]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2025.02.10-05.48.26:656][  3]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2025.02.10-05.48.26:830][ 13]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2025.02.10-05.48.26:988][ 20]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2025.02.10-05.48.26:994][ 20]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2025.02.10-05.48.27:039][ 23]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2025.02.10-05.48.27:137][ 32]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.48.27:157][ 32]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2025.02.10-05.48.27:368][ 51]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 43
+[2025.02.10-05.48.27:487][ 63]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 42
+[2025.02.10-05.48.27:517][ 66]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2025.02.10-05.48.27:536][ 68]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 40
+[2025.02.10-05.48.27:545][ 69]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2025.02.10-05.48.27:694][ 83]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2025.02.10-05.48.27:724][ 86]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2025.02.10-05.48.27:779][ 92]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2025.02.10-05.48.27:808][ 95]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2025.02.10-05.48.27:867][101]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2025.02.10-05.48.27:983][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2025.02.10-05.48.27:983][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2025.02.10-05.48.28:048][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2025.02.10-05.48.28:086][122]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2025.02.10-05.48.28:110][124]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2025.02.10-05.48.28:177][128]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2025.02.10-05.48.28:414][142]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2025.02.10-05.48.28:484][147]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2025.02.10-05.48.28:484][147]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2025.02.10-05.48.28:688][160]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2025.02.10-05.48.28:763][165]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2025.02.10-05.48.28:838][173]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2025.02.10-05.48.28:978][184]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2025.02.10-05.48.28:983][184]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.48.29:009][184]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2025.02.10-05.48.29:074][190]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 43
+[2025.02.10-05.48.29:138][197]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 42
+[2025.02.10-05.48.29:219][206]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2025.02.10-05.48.29:231][207]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2025.02.10-05.48.29:399][223]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2025.02.10-05.48.29:399][223]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2025.02.10-05.48.29:444][228]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 37
+[2025.02.10-05.48.29:570][241]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2025.02.10-05.48.29:659][251]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 35
+[2025.02.10-05.48.29:659][251]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2025.02.10-05.48.29:736][257]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2025.02.10-05.48.29:820][264]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2025.02.10-05.48.29:820][264]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2025.02.10-05.48.29:893][270]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2025.02.10-05.48.29:934][273]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2025.02.10-05.48.30:192][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2025.02.10-05.48.30:546][334]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2025.02.10-05.48.30:704][341]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2025.02.10-05.48.30:749][343]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2025.02.10-05.48.31:049][358]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2025.02.10-05.48.31:049][358]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2025.02.10-05.48.31:183][365]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2025.02.10-05.48.31:334][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2025.02.10-05.48.31:379][377]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2025.02.10-05.48.31:411][379]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2025.02.10-05.48.31:529][384]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2025.02.10-05.48.31:757][393]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2025.02.10-05.48.31:949][401]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2025.02.10-05.48.32:115][409]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2025.02.10-05.48.32:172][411]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2025.02.10-05.48.32:322][418]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2025.02.10-05.48.32:560][429]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2025.02.10-05.48.32:585][430]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2025.02.10-05.48.32:832][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2025.02.10-05.48.33:033][447]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2025.02.10-05.48.33:110][451]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2025.02.10-05.48.33:173][454]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2025.02.10-05.48.33:364][464]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2025.02.10-05.48.33:528][472]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2025.02.10-05.48.33:730][482]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2025.02.10-05.48.33:756][483]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2025.02.10-05.48.33:817][486]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2025.02.10-05.48.33:886][489]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2025.02.10-05.48.34:200][489]MaterialEditorStats: Base pass shader: 85 instructions
+[2025.02.10-05.48.34:200][489]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2025.02.10-05.48.34:200][489]MaterialEditorStats: Base pass vertex shader: 141 instructions
+[2025.02.10-05.48.34:200][489]MaterialEditorStats: Texture samplers: 3/16
+[2025.02.10-05.48.34:200][489]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2025.02.10-05.48.34:200][489]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.02.10-05.49.25:848][860]LogSlate: Window 'Message' being destroyed
+[2025.02.10-05.49.25:855][860]LogSlate: Window 'ArrowAnimation' being destroyed
+[2025.02.10-05.49.25:857][860]LogSlate: Window 'ArrowAnimation' being destroyed
+[2025.02.10-05.49.25:883][860]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.02.10-05.49.27:150][988]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Leotest/square.square
+[2025.02.10-05.49.31:525][371]LogSlate: Window 'square' being destroyed
+[2025.02.10-05.49.31:531][371]LogSlate: Window 'square' being destroyed
+[2025.02.10-05.50.28:348][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.02.10-05.50.28:493][835]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.02.10-05.50.30:831][835]LogSlate: Window 'Delete Assets' being destroyed
+[2025.02.10-05.50.31:205][835]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Leotest/arrows.arrows
+[2025.02.10-05.50.31:506][835]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.50.31:506][835]LogMaterial: Warning: D:\game\curdle-jam-35\Project\Content\Leotest\ArrowAnimation.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.02.10-05.50.31:506][835]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2025.02.10-05.50.31:506][835]LogMaterial: Warning: GetIndexedTexture returning NULL (2)
+[2025.02.10-05.50.31:509][835]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.50.31:509][835]LogMaterial: Warning: D:\game\curdle-jam-35\Project\Content\Leotest\ArrowAnimation.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.02.10-05.50.31:509][835]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2025.02.10-05.50.31:599][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.02.10-05.51.04:153][259]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\game\curdle-jam-35\assests\arrows.png)
+[2025.02.10-05.51.04:155][259]LogTexture: Display: Building textures: arrows (BGRA8, 387X215)
+[2025.02.10-05.51.06:814][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.02.10-05.51.08:027][392]LogSlate: Window 'Delete Assets' being destroyed
+[2025.02.10-05.51.08:185][392]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Leotest/arrow.arrow
+[2025.02.10-05.51.08:260][392]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.51.08:261][392]LogMaterial: Warning: D:\game\curdle-jam-35\Project\Content\Leotest\ArrowAnimation.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.02.10-05.51.08:261][392]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2025.02.10-05.51.08:261][392]LogMaterial: Warning: Requesting an invalid TextureIndex! (2 / 2)
+[2025.02.10-05.51.08:264][392]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.51.08:264][392]LogMaterial: Warning: D:\game\curdle-jam-35\Project\Content\Leotest\ArrowAnimation.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.02.10-05.51.08:264][392]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2025.02.10-05.51.08:351][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.02.10-05.51.08:373][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.02.10-05.51.08:393][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.02.10-05.51.11:279][687]LogAssetEditorManager: Opening Asset editor for Material /Game/Leotest/ArrowAnimation.ArrowAnimation
+[2025.02.10-05.51.11:282][687]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.51.11:282][687]LogMaterial: Warning: /Engine/Transient.ArrowAnimation (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.02.10-05.51.11:282][687]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2025.02.10-05.51.11:331][687]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.51.11:331][687]LogMaterial: Warning: /Engine/Transient.ArrowAnimation (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.02.10-05.51.11:331][687]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2025.02.10-05.51.11:334][687]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.51.11:335][687]LogMaterial: Warning: /Engine/Transient.ArrowAnimation (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.02.10-05.51.11:335][687]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2025.02.10-05.51.11:346][687]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2025.02.10-05.51.11:348][687]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2025.02.10-05.51.11:354][687]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2025.02.10-05.51.11:358][687]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2025.02.10-05.51.11:358][687]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2025.02.10-05.51.11:358][687]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2025.02.10-05.51.11:358][687]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2025.02.10-05.51.11:358][687]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2025.02.10-05.51.11:376][687]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2025.02.10-05.51.11:823][725]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2025.02.10-05.51.11:849][728]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2025.02.10-05.51.12:074][751]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2025.02.10-05.51.12:099][754]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2025.02.10-05.51.16:507][263]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.51.16:552][264]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2025.02.10-05.51.16:552][264]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2025.02.10-05.51.16:552][264]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2025.02.10-05.51.16:552][264]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2025.02.10-05.51.16:706][278]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 35
+[2025.02.10-05.51.16:714][279]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2025.02.10-05.51.16:725][280]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2025.02.10-05.51.16:830][291]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2025.02.10-05.51.16:870][295]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2025.02.10-05.51.16:963][303]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2025.02.10-05.51.16:973][304]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2025.02.10-05.51.17:029][310]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2025.02.10-05.51.17:066][312]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2025.02.10-05.51.17:084][313]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2025.02.10-05.51.17:161][317]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2025.02.10-05.51.17:221][320]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2025.02.10-05.51.17:440][337]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.51.17:520][342]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 39
+[2025.02.10-05.51.17:548][345]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 38
+[2025.02.10-05.51.17:619][353]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2025.02.10-05.51.17:686][361]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2025.02.10-05.51.17:784][372]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2025.02.10-05.51.17:834][378]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2025.02.10-05.51.17:852][380]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 33
+[2025.02.10-05.51.17:968][393]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2025.02.10-05.51.18:003][397]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2025.02.10-05.51.18:062][404]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2025.02.10-05.51.18:088][407]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2025.02.10-05.51.18:129][412]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2025.02.10-05.51.18:155][415]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2025.02.10-05.51.18:198][420]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2025.02.10-05.51.18:257][427]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2025.02.10-05.51.18:318][434]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2025.02.10-05.51.18:607][463]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2025.02.10-05.51.18:701][471]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2025.02.10-05.51.18:755][475]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2025.02.10-05.51.19:144][509]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2025.02.10-05.51.19:193][513]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2025.02.10-05.51.19:228][517]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2025.02.10-05.51.19:572][548]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2025.02.10-05.51.19:644][553]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2025.02.10-05.51.19:658][553]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2025.02.10-05.51.19:725][560]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2025.02.10-05.51.19:957][574]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2025.02.10-05.51.20:049][580]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2025.02.10-05.51.20:139][585]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2025.02.10-05.51.20:217][590]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2025.02.10-05.51.20:330][590]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.51.20:346][590]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2025.02.10-05.51.20:349][590]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2025.02.10-05.51.20:364][590]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2025.02.10-05.51.20:371][590]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2025.02.10-05.51.20:377][590]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2025.02.10-05.51.20:478][595]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 50
+[2025.02.10-05.51.20:519][597]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 49
+[2025.02.10-05.51.20:558][601]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2025.02.10-05.51.20:643][610]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 47
+[2025.02.10-05.51.20:667][612]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2025.02.10-05.51.20:726][617]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 45
+[2025.02.10-05.51.20:794][624]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 44
+[2025.02.10-05.51.20:861][631]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2025.02.10-05.51.20:907][636]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 42
+[2025.02.10-05.51.20:937][639]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2025.02.10-05.51.21:013][647]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2025.02.10-05.51.21:030][648]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2025.02.10-05.51.21:058][651]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2025.02.10-05.51.21:150][661]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2025.02.10-05.51.21:261][671]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2025.02.10-05.51.21:532][696]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2025.02.10-05.51.21:569][700]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2025.02.10-05.51.21:634][706]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2025.02.10-05.51.21:884][730]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2025.02.10-05.51.21:957][737]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2025.02.10-05.51.22:045][746]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2025.02.10-05.51.22:348][776]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2025.02.10-05.51.22:506][792]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2025.02.10-05.51.22:519][793]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2025.02.10-05.51.22:554][796]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2025.02.10-05.51.22:847][819]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2025.02.10-05.51.22:931][825]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2025.02.10-05.51.22:979][827]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2025.02.10-05.51.22:998][829]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2025.02.10-05.51.23:203][840]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2025.02.10-05.51.23:326][846]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2025.02.10-05.51.23:357][847]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2025.02.10-05.51.23:359][847]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2025.02.10-05.51.23:508][858]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.51.23:530][858]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2025.02.10-05.51.23:665][869]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 51
+[2025.02.10-05.51.23:819][885]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 50
+[2025.02.10-05.51.23:858][889]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 49
+[2025.02.10-05.51.23:868][890]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 48
+[2025.02.10-05.51.24:058][903]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 47
+[2025.02.10-05.51.24:129][907]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2025.02.10-05.51.24:164][911]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 45
+[2025.02.10-05.51.24:173][912]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 44
+[2025.02.10-05.51.24:416][934]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 43
+[2025.02.10-05.51.24:435][935]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2025.02.10-05.51.24:437][935]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2025.02.10-05.51.24:471][937]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2025.02.10-05.51.24:555][942]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 39
+[2025.02.10-05.51.24:583][944]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2025.02.10-05.51.24:610][945]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 37
+[2025.02.10-05.51.24:681][951]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2025.02.10-05.51.24:720][953]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2025.02.10-05.51.24:767][958]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2025.02.10-05.51.24:773][958]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2025.02.10-05.51.24:823][961]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2025.02.10-05.51.24:851][963]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2025.02.10-05.51.24:873][964]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2025.02.10-05.51.24:954][971]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2025.02.10-05.51.24:989][972]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2025.02.10-05.51.25:205][991]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2025.02.10-05.51.25:233][992]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2025.02.10-05.51.25:281][994]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2025.02.10-05.51.25:365][  3]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.51.25:387][  3]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2025.02.10-05.51.25:566][ 18]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 43
+[2025.02.10-05.51.25:617][ 23]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2025.02.10-05.51.25:706][ 32]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2025.02.10-05.51.25:724][ 34]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 40
+[2025.02.10-05.51.25:869][ 50]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 39
+[2025.02.10-05.51.25:877][ 51]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2025.02.10-05.51.25:893][ 53]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2025.02.10-05.51.26:130][ 73]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2025.02.10-05.51.26:151][ 75]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2025.02.10-05.51.26:204][ 81]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2025.02.10-05.51.26:222][ 83]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2025.02.10-05.51.26:270][ 88]LogMaterialEditor: Saving and Compiling material ArrowAnimation
+[2025.02.10-05.51.26:612][ 88]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2025.02.10-05.51.26:612][ 88]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2025.02.10-05.51.26:612][ 88]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2025.02.10-05.51.26:612][ 88]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2025.02.10-05.51.26:612][ 88]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2025.02.10-05.51.26:637][ 88]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.51.26:692][ 88]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2025.02.10-05.51.26:710][ 88]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2025.02.10-05.51.26:710][ 88]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.51.26:729][ 88]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.51.26:746][ 88]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 41
+[2025.02.10-05.51.26:767][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.02.10-05.51.26:774][ 88]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2025.02.10-05.51.29:477][ 88]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 82
+[2025.02.10-05.51.29:477][ 88]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 81
+[2025.02.10-05.51.29:477][ 88]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 80
+[2025.02.10-05.51.29:477][ 88]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 79
+[2025.02.10-05.51.29:477][ 88]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 78
+[2025.02.10-05.51.29:477][ 88]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 77
+[2025.02.10-05.51.29:477][ 88]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 76
+[2025.02.10-05.51.29:477][ 88]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 75
+[2025.02.10-05.51.29:477][ 88]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 74
+[2025.02.10-05.51.29:477][ 88]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 73
+[2025.02.10-05.51.29:477][ 88]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2025.02.10-05.51.29:477][ 88]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 71
+[2025.02.10-05.51.29:477][ 88]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 70
+[2025.02.10-05.51.29:477][ 88]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 69
+[2025.02.10-05.51.29:477][ 88]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 68
+[2025.02.10-05.51.29:477][ 88]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 67
+[2025.02.10-05.51.29:477][ 88]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 66
+[2025.02.10-05.51.29:477][ 88]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 65
+[2025.02.10-05.51.29:477][ 88]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 64
+[2025.02.10-05.51.29:477][ 88]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 63
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 62
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 61
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 60
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 59
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 58
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 57
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 56
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 55
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 54
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 53
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 52
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 51
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 50
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 49
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 48
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 47
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 46
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 45
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 44
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 43
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 41
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 40
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2025.02.10-05.51.29:478][ 88]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2025.02.10-05.51.29:479][ 88]TextureStreamingBuild: Display: Compiling optional shaders took 2.713 seconds.
+[2025.02.10-05.51.29:508][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.10-05.51.31:759][ 88]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2025.02.10-05.51.31:759][ 88]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2025.02.10-05.51.31:759][ 88]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2025.02.10-05.51.31:759][ 88]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2025.02.10-05.51.31:759][ 88]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2025.02.10-05.51.31:759][ 88]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2025.02.10-05.51.31:783][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Leotest/ArrowAnimation" FILE="../../../../game/curdle-jam-35/Project/Content/Leotest/ArrowAnimation.uasset" SILENT=true
+[2025.02.10-05.51.31:794][ 88]LogSavePackage: Moving '../../../../game/curdle-jam-35/Project/Saved/ArrowAnimation3F71334C48D75CB5CC578F8333213B34.tmp' to '../../../../game/curdle-jam-35/Project/Content/Leotest/ArrowAnimation.uasset'
+[2025.02.10-05.51.31:809][ 88]MaterialEditorStats: Base pass shader: 85 instructions
+[2025.02.10-05.51.31:809][ 88]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2025.02.10-05.51.31:809][ 88]MaterialEditorStats: Base pass vertex shader: 141 instructions
+[2025.02.10-05.51.31:809][ 88]MaterialEditorStats: Texture samplers: 3/16
+[2025.02.10-05.51.31:809][ 88]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2025.02.10-05.51.31:809][ 88]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.02.10-05.51.35:896][559]LogMaterial: Display: Missing cached shader map for material ArrowAnimation, compiling. 
+[2025.02.10-05.51.35:921][560]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2025.02.10-05.51.35:921][560]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2025.02.10-05.51.35:921][560]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2025.02.10-05.51.35:921][560]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2025.02.10-05.51.36:088][577]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2025.02.10-05.51.36:097][578]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2025.02.10-05.51.36:125][581]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2025.02.10-05.51.36:187][588]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2025.02.10-05.51.36:257][595]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2025.02.10-05.51.36:331][598]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2025.02.10-05.51.36:344][599]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2025.02.10-05.51.36:405][604]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2025.02.10-05.51.36:436][607]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2025.02.10-05.51.36:569][619]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2025.02.10-05.51.36:668][628]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2025.02.10-05.51.36:723][633]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2025.02.10-05.51.36:928][653]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2025.02.10-05.51.37:109][670]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2025.02.10-05.51.37:133][672]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2025.02.10-05.51.37:407][699]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2025.02.10-05.51.37:514][710]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2025.02.10-05.51.37:647][724]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2025.02.10-05.51.37:835][743]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2025.02.10-05.51.37:962][755]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2025.02.10-05.51.37:992][758]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2025.02.10-05.51.38:145][773]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2025.02.10-05.51.38:365][795]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2025.02.10-05.51.38:485][808]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2025.02.10-05.51.38:631][823]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2025.02.10-05.51.38:657][826]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2025.02.10-05.51.38:863][848]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2025.02.10-05.51.39:112][874]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2025.02.10-05.51.39:139][876]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2025.02.10-05.51.39:182][881]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2025.02.10-05.51.39:496][913]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2025.02.10-05.51.39:614][926]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2025.02.10-05.51.39:643][929]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2025.02.10-05.51.39:700][935]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2025.02.10-05.51.40:029][968]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2025.02.10-05.51.42:965][310]LogSlate: Window 'ArrowAnimation' being destroyed
+[2025.02.10-05.51.42:970][310]LogSlate: Window 'ArrowAnimation' being destroyed
+[2025.02.10-05.51.42:986][310]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.02.10-05.51.44:009][432]LogEditorViewport: Clicking Background
+[2025.02.10-05.51.44:304][466]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.02.10-05.51.44:311][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../game/curdle-jam-35/Project/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.10-05.51.44:334][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.02.10-05.51.44:409][466]LogSavePackage: Moving '../../../../game/curdle-jam-35/Project/Saved/NewMap7620C56B48E6EDA7E7927CAB2A8AB49F.tmp' to '../../../../game/curdle-jam-35/Project/Content/NewMap.umap'
+[2025.02.10-05.51.44:428][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../game/curdle-jam-35/Project/Content/NewMap_BuiltData.uasset" SILENT=true
+[2025.02.10-05.51.44:441][466]LogSavePackage: Moving '../../../../game/curdle-jam-35/Project/Saved/NewMap_BuiltData57798D7C4D0721D4D059EDA9D9683155.tmp' to '../../../../game/curdle-jam-35/Project/Content/NewMap_BuiltData.uasset'
+[2025.02.10-05.52.02:262][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.10-05.52.02:588][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../game/curdle-jam-35/Project/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.10-05.52.02:610][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.02.10-05.52.02:690][999]LogSavePackage: Moving '../../../../game/curdle-jam-35/Project/Saved/NewMap6FE65B8B4D5000E936FE3CA8662840FC.tmp' to '../../../../game/curdle-jam-35/Project/Content/NewMap.umap'
+[2025.02.10-05.52.02:708][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../game/curdle-jam-35/Project/Content/NewMap_BuiltData.uasset" SILENT=true
+[2025.02.10-05.52.02:720][999]LogSavePackage: Moving '../../../../game/curdle-jam-35/Project/Saved/NewMap_BuiltDataAC9F7D4442B9B19D264B8FA89BA41346.tmp' to '../../../../game/curdle-jam-35/Project/Content/NewMap_BuiltData.uasset'
+[2025.02.10-05.52.14:295][166]LogAIModule: Creating AISystem for world Leo_test
+[2025.02.10-05.52.14:298][166]LogAssetEditorManager: Opening Asset editor for World /Game/Leotest/Leo_test.Leo_test
+[2025.02.10-05.52.14:320][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.02.10-05.52.18:316][166]LogSlate: Window 'Save Content' being destroyed
+[2025.02.10-05.52.18:332][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Leotest/arrows" FILE="../../../../game/curdle-jam-35/Project/Content/Leotest/arrows.uasset" SILENT=true
+[2025.02.10-05.52.18:336][166]LogSavePackage: Moving '../../../../game/curdle-jam-35/Project/Saved/arrows5C2E137A436F6A971DD69586AAB83D94.tmp' to '../../../../game/curdle-jam-35/Project/Content/Leotest/arrows.uasset'
+[2025.02.10-05.52.18:337][166]Cmd: MAP LOAD FILE="../../../../game/curdle-jam-35/Project/Content/Leotest/Leo_test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.02.10-05.52.18:337][166]LightingResults: New page: Lighting Build
+[2025.02.10-05.52.18:338][166]LoadErrors: New page: Loading map: Leo_test.umap
+[2025.02.10-05.52.18:338][166]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.10-05.52.18:338][166]MapCheck: New page: Map Check
+[2025.02.10-05.52.18:338][166]LightingResults: New page: Lighting Build
+[2025.02.10-05.52.18:360][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.02.10-05.52.18:362][166]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.02.10-05.52.18:406][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.02.10-05.52.18:419][166]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.02.10-05.52.18:420][166]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2025.02.10-05.52.18:420][166]LogFileHelpers: Loading map 'Leo_test' took 0.083
+[2025.02.10-05.52.20:690][413]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2025.02.10-05.52.20:695][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Leotest/Leo_test" FILE="../../../../game/curdle-jam-35/Project/Content/Leotest/Leo_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.10-05.52.20:716][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.02.10-05.52.20:786][413]LogSavePackage: Moving '../../../../game/curdle-jam-35/Project/Saved/Leo_testE966B76540747628D58A10886A17FA87.tmp' to '../../../../game/curdle-jam-35/Project/Content/Leotest/Leo_test.umap'
+[2025.02.10-05.52.33:919][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.10-05.56.10:752][108]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={CDD62310-422F-6FD5-0E4D-E7875DF6D481}
+[2025.02.10-05.56.52:368][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2025.02.10-05.57.16:801][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.10-05.57.23:198][855]Cmd: TRANSACTION UNDO
+[2025.02.10-05.57.23:198][855]LogEditorTransaction: Undo Move Actors
+[2025.02.10-05.57.52:816][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2025.02.10-05.57.52:912][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.02.10-05.57.52:951][211]LogSlate: Window 'Project - Unreal Editor' being destroyed
+[2025.02.10-05.57.53:165][212]Cmd: QUIT_EDITOR
+[2025.02.10-05.57.53:299][212]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2025.02.10-05.57.53:319][212]LogExit: Preparing to exit.
+[2025.02.10-05.57.54:184][212]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.02.10-05.57.54:184][212]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.02.10-05.57.54:186][212]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.02.10-05.57.54:186][212]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.02.10-05.57.54:186][212]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.02.10-05.57.54:189][212]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2025.02.10-05.57.54:198][212]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2025.02.10-05.57.54:198][212]LogExit: Editor shut down
+[2025.02.10-05.57.54:198][212]LogExit: Transaction tracking system shut down
+[2025.02.10-05.57.54:482][212]LogExit: Object subsystem successfully closed.
+[2025.02.10-05.57.54:498][212]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.02.10-05.57.54:507][212]LogModuleManager: Shutting down and abandoning module TextureEditor (670)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2025.02.10-05.57.54:508][212]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2025.02.10-05.57.54:509][212]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2025.02.10-05.57.54:509][212]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2025.02.10-05.57.54:509][212]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2025.02.10-05.57.54:509][212]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2025.02.10-05.57.54:509][212]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2025.02.10-05.57.54:509][212]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2025.02.10-05.57.54:509][212]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2025.02.10-05.57.54:509][212]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2025.02.10-05.57.54:509][212]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2025.02.10-05.57.54:509][212]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2025.02.10-05.57.54:509][212]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2025.02.10-05.57.54:509][212]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2025.02.10-05.57.54:509][212]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2025.02.10-05.57.54:509][212]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2025.02.10-05.57.54:509][212]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2025.02.10-05.57.54:509][212]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2025.02.10-05.57.54:509][212]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2025.02.10-05.57.54:509][212]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2025.02.10-05.57.55:598][212]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2025.02.10-05.57.55:598][212]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2025.02.10-05.57.55:598][212]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2025.02.10-05.57.55:598][212]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2025.02.10-05.57.55:598][212]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2025.02.10-05.57.55:598][212]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2025.02.10-05.57.55:598][212]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2025.02.10-05.57.55:598][212]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2025.02.10-05.57.55:598][212]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2025.02.10-05.57.55:598][212]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2025.02.10-05.57.55:598][212]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2025.02.10-05.57.55:598][212]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2025.02.10-05.57.55:598][212]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2025.02.10-05.57.55:598][212]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2025.02.10-05.57.55:598][212]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2025.02.10-05.57.55:598][212]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2025.02.10-05.57.55:598][212]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2025.02.10-05.57.55:598][212]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2025.02.10-05.57.55:598][212]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2025.02.10-05.57.55:598][212]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2025.02.10-05.57.55:598][212]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2025.02.10-05.57.55:598][212]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2025.02.10-05.57.55:599][212]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2025.02.10-05.57.55:632][212]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2025.02.10-05.57.55:632][212]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2025.02.10-05.57.55:632][212]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2025.02.10-05.57.55:632][212]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2025.02.10-05.57.55:632][212]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2025.02.10-05.57.55:632][212]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2025.02.10-05.57.55:632][212]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2025.02.10-05.57.55:632][212]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2025.02.10-05.57.55:632][212]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2025.02.10-05.57.55:632][212]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2025.02.10-05.57.55:632][212]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2025.02.10-05.57.55:632][212]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2025.02.10-05.57.55:632][212]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2025.02.10-05.57.55:632][212]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2025.02.10-05.57.55:632][212]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2025.02.10-05.57.55:632][212]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2025.02.10-05.57.55:632][212]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2025.02.10-05.57.55:632][212]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2025.02.10-05.57.55:632][212]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2025.02.10-05.57.55:633][212]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2025.02.10-05.57.55:633][212]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2025.02.10-05.57.55:633][212]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2025.02.10-05.57.55:633][212]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2025.02.10-05.57.55:633][212]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2025.02.10-05.57.55:633][212]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2025.02.10-05.57.55:633][212]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2025.02.10-05.57.55:633][212]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2025.02.10-05.57.55:633][212]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2025.02.10-05.57.55:633][212]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2025.02.10-05.57.55:633][212]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2025.02.10-05.57.55:633][212]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2025.02.10-05.57.55:633][212]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2025.02.10-05.57.55:633][212]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2025.02.10-05.57.55:633][212]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2025.02.10-05.57.55:633][212]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2025.02.10-05.57.55:633][212]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2025.02.10-05.57.55:633][212]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2025.02.10-05.57.55:636][212]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2025.02.10-05.57.55:724][212]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2025.02.10-05.57.55:725][212]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2025.02.10-05.57.55:826][212]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2025.02.10-05.57.55:927][212]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2025.02.10-05.57.55:927][212]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2025.02.10-05.57.55:927][212]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2025.02.10-05.57.55:927][212]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2025.02.10-05.57.55:927][212]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2025.02.10-05.57.55:927][212]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.02.10-05.57.55:927][212]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2025.02.10-05.57.55:927][212]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2025.02.10-05.57.55:927][212]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2025.02.10-05.57.55:927][212]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2025.02.10-05.57.55:927][212]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2025.02.10-05.57.55:927][212]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2025.02.10-05.57.55:927][212]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2025.02.10-05.57.55:927][212]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2025.02.10-05.57.55:927][212]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2025.02.10-05.57.55:927][212]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2025.02.10-05.57.55:927][212]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2025.02.10-05.57.55:927][212]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2025.02.10-05.57.55:928][212]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2025.02.10-05.57.55:929][212]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2025.02.10-05.57.55:929][212]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2025.02.10-05.57.55:929][212]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2025.02.10-05.57.55:929][212]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2025.02.10-05.57.55:929][212]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2025.02.10-05.57.55:930][212]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2025.02.10-05.57.55:930][212]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2025.02.10-05.57.55:930][212]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2025.02.10-05.57.55:930][212]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2025.02.10-05.57.55:930][212]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2025.02.10-05.57.55:930][212]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2025.02.10-05.57.55:930][212]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2025.02.10-05.57.55:930][212]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2025.02.10-05.57.55:931][212]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2025.02.10-05.57.55:931][212]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2025.02.10-05.57.55:931][212]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2025.02.10-05.57.55:931][212]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2025.02.10-05.57.55:931][212]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2025.02.10-05.57.55:931][212]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2025.02.10-05.57.55:931][212]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2025.02.10-05.57.55:931][212]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2025.02.10-05.57.55:931][212]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2025.02.10-05.57.55:931][212]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2025.02.10-05.57.55:931][212]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2025.02.10-05.57.55:931][212]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2025.02.10-05.57.55:931][212]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2025.02.10-05.57.55:931][212]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2025.02.10-05.57.55:931][212]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2025.02.10-05.57.55:931][212]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2025.02.10-05.57.55:931][212]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2025.02.10-05.57.55:931][212]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2025.02.10-05.57.55:931][212]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2025.02.10-05.57.55:931][212]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2025.02.10-05.57.55:931][212]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2025.02.10-05.57.55:931][212]LogModuleManager: Shutting down and abandoning module Core (186)
+[2025.02.10-05.57.55:932][212]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2025.02.10-05.57.55:932][212]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2025.02.10-05.57.55:932][212]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2025.02.10-05.57.55:932][212]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2025.02.10-05.57.55:932][212]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2025.02.10-05.57.55:932][212]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2025.02.10-05.57.55:932][212]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2025.02.10-05.57.55:932][212]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2025.02.10-05.57.55:932][212]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2025.02.10-05.57.55:932][212]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2025.02.10-05.57.55:938][212]LogDerivedDataCache: Shutdown
+[2025.02.10-05.57.55:938][212]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2025.02.10-05.57.55:938][212]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2025.02.10-05.57.55:938][212]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2025.02.10-05.57.55:938][212]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2025.02.10-05.57.55:938][212]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2025.02.10-05.57.55:938][212]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2025.02.10-05.57.55:938][212]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2025.02.10-05.57.55:938][212]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2025.02.10-05.57.55:938][212]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2025.02.10-05.57.55:938][212]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2025.02.10-05.57.55:938][212]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2025.02.10-05.57.55:938][212]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2025.02.10-05.57.55:938][212]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2025.02.10-05.57.55:938][212]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2025.02.10-05.57.55:938][212]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2025.02.10-05.57.55:938][212]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2025.02.10-05.57.55:938][212]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2025.02.10-05.57.55:938][212]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2025.02.10-05.57.55:939][212]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2025.02.10-05.57.55:939][212]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2025.02.10-05.57.55:939][212]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2025.02.10-05.57.55:939][212]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2025.02.10-05.57.55:939][212]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2025.02.10-05.57.55:940][212]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2025.02.10-05.57.55:940][212]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2025.02.10-05.57.55:941][212]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2025.02.10-05.57.55:941][212]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2025.02.10-05.57.55:945][212]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2025.02.10-05.57.55:945][212]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2025.02.10-05.57.55:945][212]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2025.02.10-05.57.55:945][212]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2025.02.10-05.57.55:945][212]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2025.02.10-05.57.55:945][212]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2025.02.10-05.57.55:945][212]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2025.02.10-05.57.55:945][212]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2025.02.10-05.57.55:945][212]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2025.02.10-05.57.55:945][212]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2025.02.10-05.57.55:945][212]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2025.02.10-05.57.55:945][212]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2025.02.10-05.57.55:946][212]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2025.02.10-05.57.55:946][212]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2025.02.10-05.57.55:946][212]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2025.02.10-05.57.55:946][212]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2025.02.10-05.57.55:946][212]LogHMD: Freeing OpenVRDLLHandle.
+[2025.02.10-05.57.55:946][212]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2025.02.10-05.57.55:946][212]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2025.02.10-05.57.55:946][212]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2025.02.10-05.57.55:946][212]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2025.02.10-05.57.55:946][212]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2025.02.10-05.57.55:946][212]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2025.02.10-05.57.55:946][212]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2025.02.10-05.57.55:957][212]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2025.02.10-05.57.55:957][212]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2025.02.10-05.57.55:957][212]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B59CF12E6-48BD-2DD9-A39B-8598E00C1E35%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=4726841a4f8670e593a5da8bdda53a77%7Ce68d6ba843d44d79adb2cba5abc59ac4%7Cffb752dd-dafd-41b7-8002-3b7ccb02c8a2&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2025.02.10-05.57.55:976][212]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2025.02.10-05.57.55:977][212]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2025.02.10-05.57.55:978][212]LogModuleManager: Shutting down and abandoning module Media (51)
+[2025.02.10-05.57.55:978][212]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2025.02.10-05.57.55:978][212]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2025.02.10-05.57.55:978][212]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2025.02.10-05.57.55:978][212]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2025.02.10-05.57.55:978][212]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2025.02.10-05.57.55:978][212]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2025.02.10-05.57.55:978][212]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2025.02.10-05.57.55:979][212]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2025.02.10-05.57.55:979][212]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2025.02.10-05.57.55:979][212]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2025.02.10-05.57.55:979][212]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2025.02.10-05.57.55:979][212]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2025.02.10-05.57.55:980][212]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2025.02.10-05.57.55:980][212]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2025.02.10-05.57.55:980][212]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2025.02.10-05.57.55:980][212]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2025.02.10-05.57.55:980][212]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2025.02.10-05.57.55:980][212]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2025.02.10-05.57.55:980][212]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2025.02.10-05.57.55:980][212]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2025.02.10-05.57.55:980][212]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2025.02.10-05.57.55:980][212]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2025.02.10-05.57.55:980][212]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2025.02.10-05.57.55:980][212]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2025.02.10-05.57.55:980][212]LogD3D11RHI: Shutdown
+[2025.02.10-05.57.55:980][212]LogD3D11RHI: CleanupD3DDevice
+[2025.02.10-05.57.55:981][212]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2025.02.10-05.57.55:981][212]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2025.02.10-05.57.55:981][212]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2025.02.10-05.57.56:047][212]LogD3D11RHI: ~FD3D11DynamicRHI
+[2025.02.10-05.57.56:053][212]LogExit: Exiting.
+[2025.02.10-05.57.56:066][212]Log file closed, 02/09/25 21:57:56
+>>>>>>> main
