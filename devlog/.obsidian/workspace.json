@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "concept"
             }
+          },
+          {
+            "id": "1766dafdca902fd5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -191,7 +204,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d3d7b909f4e26c4",
+  "active": "1766dafdca902fd5",
   "lastOpenFiles": [
     "info.md",
     "planning/concept.md",
