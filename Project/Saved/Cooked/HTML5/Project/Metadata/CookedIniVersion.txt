@@ -8,22 +8,22 @@ HTML5.Engine:AssetRegistry:bFilterAssetDataWithNoTags:0=false
 HTML5.Engine:AssetRegistry:bFilterDependenciesWithNoTags:0=false
 HTML5.Engine:AssetRegistry:bFilterSearchableNames:0=true
 HTML5.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
-HTML5.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/tester.tester
+HTML5.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/MainMenu/Menu.Menu
 HTML5.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
 HTML5.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Script/Engine.GameModeBase
 Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
-Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/tester.tester
+Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/MainMenu/Menu.Menu
 Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
 Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Script/Engine.GameModeBase
 Mac.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
-Mac.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/tester.tester
+Mac.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/MainMenu/Menu.Menu
 Mac.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
 Mac.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Script/Engine.GameModeBase
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/tester.tester
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/MainMenu/Menu.Menu
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Script/Engine.GameModeBase
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/NewMap.NewMap
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/MainMenu/Menu.Menu
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:LocalMapOptions:0=
 Windows.Engine:Core.System:CutdownPaths:0=%GAMEDIR%CutdownPackages
 Windows.Engine:Core.System:ZeroEngineVersionWarning:0=True
@@ -1616,15 +1616,15 @@ Windows.Engine:/Script/HardwareTargeting.HardwareTargetingSettings:AppliedTarget
 Windows.Engine:/Script/HardwareTargeting.HardwareTargetingSettings:DefaultGraphicsPerformance:0=Scalable
 Windows.Engine:/Script/HardwareTargeting.HardwareTargetingSettings:AppliedDefaultGraphicsPerformance:0=Scalable
 Android.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
-Android.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/tester.tester
+Android.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/MainMenu/Menu.Menu
 Android.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
 Android.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Script/Engine.GameModeBase
 IOS.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
-IOS.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/tester.tester
+IOS.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/MainMenu/Menu.Menu
 IOS.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
 IOS.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Script/Engine.GameModeBase
 Linux.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
-Linux.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/tester.tester
+Linux.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/MainMenu/Menu.Menu
 Linux.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
 Linux.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Script/Engine.GameModeBase
 Windows.Input:/Script/Engine.InputSettings:DefaultTouchInterface:0=/Engine/MobileResources/HUD/DefaultVirtualJoysticks.DefaultVirtualJoysticks
@@ -1928,7 +1928,7 @@ Windows.Input:/Script/OpenXRInput.XRInputSettings:ValveIndexBindings:17=(Path="/
 Windows.Input:/Script/OpenXRInput.XRInputSettings:ValveIndexBindings:18=(Path="/user/hand/left/input/b/click",Key=MotionController_Left_FaceButton2)
 Windows.Input:/Script/OpenXRInput.XRInputSettings:ValveIndexBindings:19=(Path="/user/hand/right/input/b/click",Key=MotionController_Right_FaceButton2)
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/capti/Desktop/Unreal Games/CurdleJamBuilds/v3")
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/capti/Desktop/Unreal Games/CurdleJamBuilds/v4")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bIncludeNativizedAssetsInProjectGeneration:0=False
