@@ -1928,7 +1928,7 @@ Windows.Input:/Script/OpenXRInput.XRInputSettings:ValveIndexBindings:17=(Path="/
 Windows.Input:/Script/OpenXRInput.XRInputSettings:ValveIndexBindings:18=(Path="/user/hand/left/input/b/click",Key=MotionController_Left_FaceButton2)
 Windows.Input:/Script/OpenXRInput.XRInputSettings:ValveIndexBindings:19=(Path="/user/hand/right/input/b/click",Key=MotionController_Right_FaceButton2)
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/capti/Desktop/Unreal Games/CurdleJamBuilds/v6")
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/capti/Desktop/Unreal Games/CurdleJamBuilds/v7")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bIncludeNativizedAssetsInProjectGeneration:0=False
